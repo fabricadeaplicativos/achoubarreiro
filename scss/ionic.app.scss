@@ -21,3 +21,74 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 // Include all of Ionic
 @import "www/lib/ionic/scss/ionic";
 
+
+$search-grid-gutter: 2%;
+
+.search-shortcuts {
+
+	margin-left: -1 * $search-grid-gutter / 2;
+	margin-right: -1 * $search-grid-gutter / 2;
+
+
+	> button {
+
+		float: left;
+		margin: $search-grid-gutter / 2;
+	}
+
+
+	&.grid-2 {
+
+		// The final button selector should look like: 
+		// > button {
+		// 	float: left;
+		// 	width: 50% - $search-grid-gutter;
+		// 	margin: $search-grid-gutter / 2;
+		// }
+
+		> button {
+			width: 50% - $search-grid-gutter;
+		}
+	}
+
+
+}
+
+
+.button-icon-top-large {
+
+	line-height: inherit;
+
+	i {
+		font-size: 30px;
+		height: 3px;
+	}
+}
+
+
+.search-component {
+
+	&.ng-enter {
+	  -webkit-transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+	  transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+	}
+
+	&.ng-leave {
+	  -webkit-transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+	  transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+	}
+
+	&.ng-enter {
+		opacity: 0;
+	}
+	&.ng-leave.ng-leave-active {
+	  opacity:0;
+	}
+
+	&.ng-leave {
+		opacity: 1;
+	}
+	&.ng-enter.ng-enter-active {
+	  opacity:1;
+	}
+}
