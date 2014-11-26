@@ -10,7 +10,8 @@
   
  	<div class="dark">
  		<h3 class="title dark">{{establishment.title}}</h3>
-	 	<p>{{establishment.description}}</p>
+
+ 		<div ng-bind-html="establishment.parsedDescription"></div>
 		 	<a class="button icon-left ion-ios7-telephone button-balanced" href=""> 0000-0000</a>
 		 </p>
  	</div>

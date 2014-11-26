@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bbcode": "^0.1.5",
     "csvtojson": "^0.3.16",
     "lodash": "^2.4.1"
   }

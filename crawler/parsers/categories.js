@@ -1,6 +1,8 @@
 var fs   = require('fs'),
 	path = require('path');
 
+var bbcode = require('bbcode');
+
 // read pages json
 var pagesJSON = fs.readFileSync(path.join(__dirname, '..', 'data/pages.json')),
 	pages     = JSON.parse(pagesJSON);
@@ -18,6 +20,8 @@ items.forEach(function (item, index) {
 	// retrieve the page of the item
 	var itemPageId = item.moblet_id;
 
+	//////////////
+	// CATEGORY //
 	// search for the page
 	var itemPage = pages.filter(function (page) {
 
@@ -33,6 +37,28 @@ items.forEach(function (item, index) {
 	if (itemPage) {
 		item.category = itemPage.name;
 	}
+	// CATEGORY //
+	//////////////
+
+	/////////////
+	// ADDRESS //
+	var addressRegexp = /(?:^\[b])((?:.|\n)*?)(?:\[\/b])/;
+	var match = item.description.match(addressRegexp);
+
+	if (match) {
+		item.address = match[1];
+	}
+	// ADDRESS //
+	/////////////
+	
+
+	////////////////////////
+	// PARSED DESCRIPTION //
+	item.parsedDescription = bbcode.parse(item.description);
+
+	// PARSED DESCRIPTION //
+	////////////////////////
+
 });
 
 
