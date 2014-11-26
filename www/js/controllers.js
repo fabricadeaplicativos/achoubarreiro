@@ -5,7 +5,7 @@ angular.module('achouBarreiro.controllers', ['achouBarreiro.services'])
 
 	$scope.establishments;
 
-	Establishments.get().success(function (res) {
+	Establishments.get().then(function (res) {
 		$scope.establishments = res;
 
 		console.log(res);
@@ -44,9 +44,17 @@ angular.module('achouBarreiro.controllers', ['achouBarreiro.services'])
 		},
 		{
 			label: 'docerias',
-			query: ['doces', 'docerias', 'sobremesas'],
+			query: 'doces',
 			iconClass: 'ion-icecream'
 		},
 	];
+
+}])
+
+.controller('EstablishmentCtrl', ['$scope', '$stateParams', function ($scope, $stateParams) {
+
+
+
+	console.log($stateParams);
 
 }]);

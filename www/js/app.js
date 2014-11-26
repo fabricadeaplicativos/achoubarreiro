@@ -17,3 +17,22 @@ angular.module('achouBarreiro', ['ionic', 'achouBarreiro.controllers'])
     }
   });
 })
+
+.config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {
+
+
+  $stateProvider
+    .state('search', {
+      url: '/search',
+      templateUrl: 'templates/search.html',
+      controller: 'SearchCtrl'
+    })
+
+    .state('establishment', {
+      url: '/establishment/:establishmentId',
+      templateUrl: 'templates/establishment.html',
+      controller: 'EstablishmentCtrl'
+    })
+
+  $urlRouterProvider.otherwise('/search')
+}])

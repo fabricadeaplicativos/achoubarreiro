@@ -12,8 +12,13 @@
     <link href="css/ionic.app.css" rel="stylesheet">
     -->
 
+
+    <!-- LIBS -->
     <!-- ionic/angularjs js -->
     <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <!-- lodash -->
+    <script src="lib/lodash/dist/lodash.js"></script>
 
     <!-- cordova script (this will be a 404 during development) -->
     <script src="cordova.js"></script>
@@ -25,62 +30,6 @@
   </head>
   <body ng-app="achouBarreiro">
 
-    <ion-pane>
-      <ion-content class="padding" ng-controller="SearchCtrl">
-
-        <div class="search-component list list-inset">
-          <label class="item item-input">
-            <i class="icon ion-search placeholder-icon"></i>
-            <input 
-              type="text" 
-              placeholder="Search" 
-              ng-model="search.query"
-            >
-          </label>
-        </div>
-
-        <div ng-if="!search.query" class="search-shortcuts grid-2 animate-if">
-
-
-          <button ng-repeat="button in buttons" 
-            class="button button-icon-top-large"
-            ng-click="search.query = {{ button.query }}"
-          >
-            <i class="{{ button.iconClass }}"></i>
-            <br>
-            <label>{{ button.label }}</label>
-          </button>
-
-
-          <div class="clearfix"></div>
-
-        </div>
-
-
-        <div ng-if="search.query" class="search-component">
-
-          <div ng-repeat="e in establishments | filter:search.query" class="list card">
-
-<!--             <div class="item item-avatar">
-              <img src="{{ e.image }}">
-              <h2>Pretty Hate Machine</h2>
-              <p>Nine Inch Nails</p>
-            </div> -->
-
-            <div class="item item-image">
-              <img src="{{ e.image }}">
-            </div>
-
-            <a class="item item-icon-left assertive" href="#">
-              <i class="icon ion-music-note"></i>
-              Start listening
-            </a>
-
-          </div>
-
-        </div>
-
-      </ion-content>
-    </ion-pane>
+    <ion-nav-view></ion-nav-view>
   </body>
 </html>

@@ -1,12 +1,38 @@
 angular.module('achouBarreiro.services', [])
 
-.service('Establishments', ['$http', function ($http) {
+//////////
+// libs //
+.service('_', ['$window', function ($window) {
+	return $window._;
+}])
+// libs //
+//////////
+
+.service('Establishments', ['$http', '$q', '_', function ($http, $q, _) {
 
 
 	return {
-		get: function () {
+		get: function (search) {
 
-			return $http.get('data/estabelecimentos.json')
+			var defer = $q.defer();
+
+			$http.get('data/estabelecimentos.json')
+				.success(function (res) {
+
+					if (search) {
+
+						defer.resolve(_.where(res, search));
+
+					} else {
+						defer.resolve(res);
+					}
+
+				})
+				.error(function (err) {
+
+				});
+
+			return defer.promise;
 		},
 
 
