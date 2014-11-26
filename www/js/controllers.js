@@ -51,7 +51,7 @@ angular.module('achouBarreiro.controllers', ['achouBarreiro.services'])
 
 }])
 
-.controller('EstablishmentCtrl', ['$scope', '$stateParams', 'Establishments', function ($scope, $stateParams, Establishments) {
+.controller('EstablishmentCtrl', ['$scope', '$stateParams', 'Establishments', '$ionicActionSheet', function ($scope, $stateParams, Establishments, $ionicActionSheet) {
 
 	Establishments.get({ id: parseInt($stateParams.establishmentId) })
 		.then(function(results){
@@ -59,9 +59,24 @@ angular.module('achouBarreiro.controllers', ['achouBarreiro.services'])
 			console.log(results);
 
 			$scope.establishment = results[0];
-			
+
 		});
 
 	console.log($stateParams);
 
+	$scope.menuAction = function(){
+		$ionicActionSheet.show({
+			buttons : [
+			{ text : "ações"},
+			{ text : "ligar"}
+			],
+			buttonClicked : function(index){
+				return true;
+			}
+		});
+	};
+
 }]);
+
+
+
