@@ -15,6 +15,8 @@ $royal:                           #886aea !default;
 $dark:                            #444 !default;
 */
 
+$balanced:                        #51af37 !default;
+
 // The path for our ionicons font files, relative to the built CSS in www/css
 $ionicons-font-path: "../lib/ionic/fonts" !default;
 
@@ -34,6 +36,7 @@ $search-grid-gutter: 2%;
 
 		float: left;
 		margin: $search-grid-gutter / 2;
+		padding: 15px 0;
 	}
 
 
@@ -54,19 +57,22 @@ $search-grid-gutter: 2%;
 
 }
 
-
 .button-icon-top-large {
 
 	line-height: inherit;
 
 	i {
 		font-size: 30px;
-		height: 3px;
+		height: 30px;
 	}
 }
 
+.has-subheader-search{
+	margin-top: 110px;
+}
 
-.search-component {
+
+.search-component, .animate-button {
 
 	&.ng-enter {
 	  -webkit-transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;

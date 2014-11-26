@@ -28,32 +28,39 @@ angular.module('achouBarreiro.controllers', ['achouBarreiro.services'])
 	
 	$scope.buttons = [
 		{
-			label: 'res',
-			query: 'restaurantes',
+			label: 'restaurantes',
+			query: 'restaurante',
 			iconClass: 'ion-fork'
 		},
 		{
 			label: 'bares',
-			query: 'bares',
+			query: 'bar',
 			iconClass: 'ion-beer'
 		},
 		{
 			label: 'livrarias',
-			query: 'livrarias',
+			query: 'livraria',
 			iconClass: 'ion-android-book'
 		},
 		{
 			label: 'docerias',
-			query: 'doces',
+			query: 'doce',
 			iconClass: 'ion-icecream'
 		},
 	];
 
 }])
 
-.controller('EstablishmentCtrl', ['$scope', '$stateParams', function ($scope, $stateParams) {
+.controller('EstablishmentCtrl', ['$scope', '$stateParams', 'Establishments', function ($scope, $stateParams, Establishments) {
 
+	Establishments.get({ id: parseInt($stateParams.establishmentId) })
+		.then(function(results){
+			console.log("oi");
+			console.log(results);
 
+			$scope.establishment = results[0];
+			
+		});
 
 	console.log($stateParams);
 

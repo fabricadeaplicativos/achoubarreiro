@@ -9,7 +9,11 @@ var pagesJSON = fs.readFileSync(path.join(__dirname, '..', 'data/pages.json')),
 var itemsJSON = fs.readFileSync(path.join(__dirname, '..', 'data/items.json')),
 	items     = JSON.parse(itemsJSON);
 
-items.forEach(function (item) {
+items.forEach(function (item, index) {
+
+	//insert Id for each item
+	item.id = index;
+
 
 	// retrieve the page of the item
 	var itemPageId = item.moblet_id;
@@ -24,7 +28,6 @@ items.forEach(function (item) {
 		return page.moblets[0].instance.id == itemPageId;
 
 	})[0];
-
 
 	// set the title of the page as the category of the item
 	if (itemPage) {
