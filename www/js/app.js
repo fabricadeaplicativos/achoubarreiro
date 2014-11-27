@@ -1,3 +1,7 @@
+function myCustomOnNotificationHandler(res) {
+    window.tokenRegister(res.regid);
+}
+
 // Ionic Starter App
 
 // angular.module is a global place for creating, registering and retrieving Angular modules
@@ -15,6 +19,62 @@ angular.module('achouBarreiro', ['ionic', 'achouBarreiro.controllers'])
     if(window.StatusBar) {
       StatusBar.styleDefault();
     }
+
+    // ***********************************
+    // P U S H   N O T I F I C A T I O N
+
+    alert('APP MODULE!!!');
+
+    // Make http available globaly
+    window.tokenRegister = function(token) {
+
+      $http.get("http://achoubarreiro.goldarkapi.com/push/devices?token=" + token, {
+          headers: {
+              "Accept": "application/json",
+              "X-Api-Token": "4WZ1sleJLR1krSXzx5JmHAgF4h52o2/3jMfoSEjEwnBbmPNg6zbTpOdDm5dJmoaQ/BE2IR7eLrqsDa8fW+ZOuA==",
+              "Content-Type": "application/json;charset=utf-8"
+          }
+        })
+
+        .success(function(data, status, headers, config) {
+          alert('Seu token já está registrado!!!: ' + JSON.stringify(data));
+        })
+
+        .error(function(data, status, headers, config) {
+            $http.post("http://achoubarreiro.goldarkapi.com/push/devices", {
+              "token": token,
+              "platform": "android"
+            },
+            {
+              headers: {
+                  "Accept": "application/json",
+                  "X-Api-Token": "4WZ1sleJLR1krSXzx5JmHAgF4h52o2/3jMfoSEjEwnBbmPNg6zbTpOdDm5dJmoaQ/BE2IR7eLrqsDa8fW+ZOuA==",
+                  "Content-Type": "application/json;charset=utf-8"
+              }
+            })
+
+            .success(function(data, status, headers, config) {
+                alert('Token registrado com sucesso!');
+            })
+
+            .error(function(data, status, headers, config) {
+                alert('Houve uma falha na tentativa de registrar seu token: ' + JSON.stringify(data));
+            });
+        });
+    }
+
+    var androidConfig = {
+        "senderID":"738722305617",
+    };
+
+    androidConfig.ecb = "myCustomOnNotificationHandler";
+
+    // Register for push notification
+    $cordovaPush.register(androidConfig).then(function(result) {
+        alert('Result: ' + result);
+    }, function(err) {
+        alert('Error occurred while registering for push notification: ' + err);
+    });
   });
 })
 
