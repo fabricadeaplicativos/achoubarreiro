@@ -5,10 +5,15 @@
     "ionic": "driftyco/ionic-bower#1.0.0-beta.13"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "ngCordova": "~0.1.7-alpha"
-=======
-    "lodash": "~2.4.1"
->>>>>>> 73f88ffc5db027b71b614d3a1a479b85b8d6c333
+    "ngCordova": "~0.1.7-alpha",
+    "lodash": "~2.4.1",
+    "ionic": "~0.9.27"
+  },
+  "resolutions": {
+    "angular": "1.2.27",
+    "ionic": "1.0.0-beta.13",
+    "angular-animate": "~1.2.17",
+    "angular-sanitize": "~1.2.17",
+    "angular-ui-router": "0.2.10"
   }
 }
