@@ -44,18 +44,21 @@ items.forEach(function (item, index) {
 	var addressMatch  = item.description.match(addressRegexp);
 
 	if (addressMatch) {
-		item.address = addressMatch[1];
+		item.address = addressMatch[1].replace(/\s*\n[\n\\]*\s*/, ' - ');
 	}
 	// ADDRESS //
 	/////////////
 	
 	////////////
 	// LATLNG //
-	var latlngRegexp = /(?:google.*?@)(.*?)(?:,)(.*?)(?:,)/;
+	var latlngRegexp = /(?:google.*?(?:@|sll=))(.*?)(?:,)(.*?)(?:,)/;
 	var latlngMatch  = item.description.match(latlngRegexp);
 
 	if (latlngMatch) {
 		item.location = [parseFloat(latlngMatch[1]), parseFloat(latlngMatch[2])];
+	} else {
+
+		console.log(index + ' has no latlng');;
 	}
 	// LATLNG //
 	////////////

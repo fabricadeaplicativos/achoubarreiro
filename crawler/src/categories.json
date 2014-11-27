@@ -1,0 +1,278 @@
+[
+	{
+		"id": "844294",
+		"name": "Academias e Suplementos",
+		"tags": [
+			"Academias",
+			"Suplementos"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/5deb1d1431a12759fa1a0f5e57e99067daf41bb7"
+	},
+	{
+		"id": "2574625",
+		"name": "Açaí, Doces e Sorvetes",
+		"tags": [
+			"Açaí",
+			"Doces",
+			"Sorvetes"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/5d37306a95d7f16471b064a6befdcb99b339c54e"
+	},
+	{
+		"id": "717926",
+		"name": "Bares, Café e Restaurante",
+		"tags": [
+			"Bares",
+			"Café",
+			"Restaurante"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/8eee1e487ec153bcb032631e7c14fb25ef7663f5"
+	},
+	{
+		"id": "2579397",
+		"name": "Carros, Motos e Seguros",
+		"tags": [
+			"Carros",
+			"Motos",
+			"Seguros"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/c4a38fe6fb55b5687b60f20eec4caf37a3ab4b06"
+	},
+	{
+		"id": "844286",
+		"name": "Contábil e Advocacia",
+		"tags": [
+			"Contábil",
+			"Advocacia"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/a6a2ebcf862fdada6550513938054d20f91cc210"
+	},
+	{
+		"id": "717774",
+		"name": "Drogaria, Clínica e Lab",
+		"tags": [
+			"Drogaria",
+			"Clínica",
+			"Lab"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/fe578dc6c976418fe78edca80535ec272e914396"
+	},
+	{
+		"id": "717818",
+		"name": "Escolas, Cursos e Prof",
+		"tags": [
+			"Escolas",
+			"Cursos",
+			"Prof"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/e4f96cad37da023ad8e1a34bbc2a8837f16c6878"
+	},
+	{
+		"id": "717782",
+		"name": "Festas, Eventos e Buffet",
+		"tags": [
+			"Festas",
+			"Eventos",
+			"Buffet"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/30db1140fd20c9205d3656ba03b2bad4c0f1c03e"
+	},
+	{
+		"id": "2600581",
+		"name": "Floricultura e Jardinagem",
+		"tags": [
+			"Floricultura",
+			"Jardinagem"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/05b9f44fb9009d2d642618d5d02f6ce926045a95"
+	},
+	{
+		"id": "844302",
+		"name": "Gás, Açougue e Sacolão",
+		"tags": [
+			"Gás",
+			"Açougue",
+			"Sacolão"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/1c296515adbdbfbaa1cbf9c2676da3c5c7c91019"
+	},
+	{
+		"id": "844304",
+		"name": "Imóveis e Construções",
+		"tags": [
+			"Imóveis",
+			"Construções"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/8cd87ef643e0c1683775af1730b83d4570fe9b00"
+	},
+	{
+		"id": "717822",
+		"name": "Informática e Eletrônica",
+		"tags": [
+			"Informática",
+			"Eletrônica"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/bb80838de970d9c104ada43e5b7a6a2dc542a33e"
+	},
+	{
+		"id": "2579327",
+		"name": "Jóias e Relógios",
+		"tags": [
+			"Jóias",
+			"Relógios"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/3fb83a8b260d0709b0f517286429e91014cfa9c9"
+	},
+	{
+		"id": "2614531",
+		"name": "Lojas em Geral",
+		"tags": [
+			"Lojas em Geral"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/707c2b50e40e108b2c9d7d19504c1c2762d4b911"
+	},
+	{
+		"id": "2617439",
+		"name": "Móveis e Decoração",
+		"tags": [
+			"Móveis",
+			"Decoração"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/2cdf7d3c01a75c0ea9ec1a8a074d2e22491aa49f"
+	},
+	{
+		"id": "717798",
+		"name": "Oficina e Peças",
+		"tags": [
+			"Oficina",
+			"Peças"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/a344c34fbd2b166f97f14bb20a460d8e6ca6ea74"
+	},
+	{
+		"id": "844312",
+		"name": "Óticas e Dentistas",
+		"tags": [
+			"Óticas",
+			"Dentistas"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/c432d02fa8ba33e46930200207a10a6ecc27175d"
+	},
+	{
+		"id": "2617933",
+		"name": "Padaria, Bolo e Mercearia",
+		"tags": [
+			"Padaria",
+			"Bolo",
+			"Mercearia"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/9e3b9f274546bb4fc0a40faba13b653e77bfe9b0"
+	},
+	{
+		"id": "2574769",
+		"name": "Papelaria e Gráficas",
+		"tags": [
+			"Papelaria",
+			"Gráficas"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/695152eff61dd496149055ce2eafbdbe7e0e5591"
+	},
+	{
+		"id": "2617385",
+		"name": "Perfumes e Cosméticos",
+		"tags": [
+			"Perfumes",
+			"Cosméticos"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/987117cd7e5410e6621a19361d1b217a9480e20e"
+	},
+	{
+		"id": "2574783",
+		"name": "Pet, Rações e Veterinária",
+		"tags": [
+			"Pet",
+			"Rações",
+			"Veterinária"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/4d5aa1641234bd8923a32238ed672b41ae872a2b"
+	},
+	{
+		"id": "717768",
+		"name": "Pizza, Patel e Lanchonete",
+		"tags": [
+			"Pizza",
+			"Patel",
+			"Lanchonete"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/6d7d4672972895d1d808c202f2a7a153a102a5db"
+	},
+	{
+		"id": "717792",
+		"name": "Salão e Estética",
+		"tags": [
+			"Salão",
+			"Estética"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/ddad396379816b983dc163a15d05dd4222a31dec"
+	},
+	{
+		"id": "2587999",
+		"name": "Serviços em Geral",
+		"tags": [
+			"Serviços em Geral"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/a73672a32eb54082e1fce8afe08b2bcced84c40c"
+	},
+	{
+		"id": "2600331",
+		"name": "Som e Acessórios",
+		"tags": [
+			"Som",
+			"Acessórios"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/69cdf7b97cab53de9a3999a653f2b01ba9d435c2"
+	},
+	{
+		"id": "2617205",
+		"name": "Tatuagens e Piercing",
+		"tags": [
+			"Tatuagens",
+			"Piercing"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/24c8ae7f5c527b8558ca11c5351cfa23bcd2f010"
+	},
+	{
+		"id": "2574799",
+		"name": "Turismo, Hotel e Motel",
+		"tags": [
+			"Turismo",
+			"Hotel",
+			"Motel"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/573ec6d0a0fe52a295fed2d77ede8d9563260083"
+	},
+	{
+		"id": "2588147",
+		"name": "Classificados Grátis",
+		"tags": [
+			"Classificados Grátis"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/5153d44564321117769498818b24d54f364e932e"
+	},
+	{
+		"id": "2579271",
+		"name": "Facebook do Achou App!",
+		"tags": [
+			"Facebook do Achou App!"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/23823bdcf44ee93b02e697192f8cc4e99354d646"
+	},
+	{
+		"id": "2579341",
+		"name": "Contato Achou App!",
+		"tags": [
+			"Contato Achou App!"
+		],
+		"image": "http://universo-prd1.s3-website-us-east-1.amazonaws.com/eee36af3ca54730a368e6bd912e57dff9c88d636"
+	}
+]
