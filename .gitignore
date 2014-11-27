@@ -4,8 +4,5 @@
 node_modules/
 platforms/
 plugins/
-<<<<<<< HEAD
 www/lib
-=======
-www/lib
->>>>>>> 73f88ffc5db027b71b614d3a1a479b85b8d6c333
+.DS_STORE
