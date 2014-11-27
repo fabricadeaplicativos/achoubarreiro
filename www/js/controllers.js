@@ -51,7 +51,7 @@ angular.module('achouBarreiro.controllers', ['achouBarreiro.services'])
 
 }])
 
-.controller('EstablishmentCtrl', ['$scope', '$stateParams', 'Establishments', '$ionicActionSheet', function ($scope, $stateParams, Establishments, $ionicActionSheet) {
+.controller('EstablishmentCtrl', ['$scope', '$stateParams', 'Establishments', '$ionicActionSheet', function ($scope, $stateParams, Establishments, $ionicActionSheet, $cordovaGeolocation) {
 	
 	$scope.i = 0;
 	
@@ -66,6 +66,7 @@ angular.module('achouBarreiro.controllers', ['achouBarreiro.services'])
 			console.log(results);
 
 			$scope.establishment = results[0];
+			$scope.establishment.title = $scope.establishment.title.toLowerCase();
 			
 			$scope.i++;
 			$scope.renderMap();
@@ -108,31 +109,42 @@ angular.module('achouBarreiro.controllers', ['achouBarreiro.services'])
 		      title: $scope.establishment.title
 		});
 		
-		navigator.geolocation.getCurrentPosition(function(pos) {
+		
+		console.log("cordovaGeolocation is undefined?");
+		
+		if($cordovaGeolocation != undefined){
+		
+			console.log("No");
+			$cordovaGeolocation
+			    .getCurrentPosition()
+			    .then(function (pos) {
+        	
+					var request = {
+					    origin: new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude),
+					    destination: latLng,
+					    waypoints: [],
+					    optimizeWaypoints: true,
+					    travelMode: google.maps.TravelMode.DRIVING
+					};
+        	    	
+					directionsDisplay = new google.maps.DirectionsRenderer();
+					var directionsService = new google.maps.DirectionsService();
+        	    	
+					directionsService.route(request, function(response, status) {
+        	    	
+						marker.setVisible(false);
+						// POG
+						response.routes[0].legs[0].end_address = $scope.establishment.title + ' - ' + response.routes[0].legs[0].end_address;
+						directionsDisplay.setMap(map);
+						directionsDisplay.setDirections(response);
+					});
 			
-			var request = {
-			    origin: new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude),
-			    destination: latLng,
-			    waypoints: [],
-			    optimizeWaypoints: true,
-			    travelMode: google.maps.TravelMode.DRIVING
-			};
-			
-			directionsDisplay = new google.maps.DirectionsRenderer();
-			var directionsService = new google.maps.DirectionsService();
-
-			directionsService.route(request, function(response, status) {
-				
-				marker.setVisible(false);
-				// POG
-				response.routes[0].legs[0].end_address = $scope.establishment.title + ' - ' + response.routes[0].legs[0].end_address;
-				directionsDisplay.setMap(map);
-				directionsDisplay.setDirections(response);
-			});
-			
-		}, function(error) {
-			alert('Unable to get location: ' + error.message);
-		});
+			    }, function(error) {
+					alert('Unable to get location: ' + error.message);
+				});
+		}
+		else
+			console.log("Yes");
 	}
 
 }]);

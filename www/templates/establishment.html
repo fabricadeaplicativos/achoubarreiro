@@ -9,19 +9,23 @@
 	</ion-nav-buttons>
   
  	<div class="dark">
- 		<h3 class="title dark">{{establishment.title}}</h3>
+ 		<div>
+		    <img src="{{establishment.image}}" style="width:80px;float:left;padding: 0 10px 10px 0">
+		    <h2 style="text-transform:capitalize">{{establishment.title}}</h2>
+		</div>
+
+		<p style="clear:both">{{establishment.address}}
+		<a class="button-icon icon-left ion-ios7-telephone balanced button-large" href="tel:{{establishment.phone}}"></a></p>
 
  		<div ng-bind="establishment.description"></div>
 
-			<div id="map"></div>
+		<div id="map"></div>
 
-		 	<a class="button icon-left ion-ios7-telephone button-balanced" href=""> 0000-0000</a>
-		 </p>
  	</div>
 
-  
-
-  
 
   </ion-content>
+
+	
+
 </ion-view>

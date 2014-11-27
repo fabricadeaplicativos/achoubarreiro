@@ -37,8 +37,4 @@ angular.module('achouBarreiro.services', [])
 
 
 	}
-}])
-
-
-.service('Geolocation', ['$http', '$q', '_', function ($http, $q, _) {
 }]);
