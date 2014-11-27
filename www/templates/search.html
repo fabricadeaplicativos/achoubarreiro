@@ -1,0 +1,67 @@
+<ion-view title="">
+
+   
+
+    <ion-nav-buttons side="left">
+      <button ng-if="search.query" ng-click="search.query = ''" class="button button-icon icon ion-home animate-button"></button>
+      <div class="h1 title">Achou Barreiro</div>
+    </ion-nav-buttons>
+    
+
+
+    <div class="search-component list list-inset has-header">
+      <label class="item item-input">
+        <i class="icon ion-search placeholder-icon"></i>
+        <input 
+          type="text" 
+          placeholder="Search" 
+          ng-model="search.query"
+        >
+      </label>
+    </div>
+
+
+  <ion-content class="has-subheader-search padding">
+
+
+    <div ng-if="!search.query" class="search-shortcuts grid-2">
+
+
+      <button ng-repeat="button in buttons" 
+        class="button button-icon-top-large"
+        ng-click="search.query = '{{ button.query }}'"
+      >
+        <i class="{{ button.iconClass }}"></i>
+        <br>
+        <label>{{ button.label }}</label>
+      </button>
+
+
+      <div class="clearfix"></div>
+
+    </div>
+
+
+    <div ng-if="search.query" class="search-component">
+
+      <div 
+        ng-repeat="e in establishments | filter:search.query"
+        class="list card"
+        ui-sref="establishment({ establishmentId: {{ e.id || $index }}})"
+      >
+
+        <div class="item item-image">
+          <img src="{{ e.image }}">
+        </div>
+
+        <a class="item item-icon-left assertive" href="#">
+          <i class="icon ion-music-note"></i>
+          Start listening
+        </a>
+
+      </div>
+
+    </div>
+
+  </ion-content>
+</ion-view>

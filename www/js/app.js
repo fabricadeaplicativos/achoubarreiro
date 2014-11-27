@@ -1,9 +1,9 @@
 // Ionic Starter App
 
 // angular.module is a global place for creating, registering and retrieving Angular modules
-// 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
+// 'achouBarreiro' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
-angular.module('starter', ['ionic'])
+angular.module('achouBarreiro', ['ionic', 'achouBarreiro.controllers'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -17,3 +17,22 @@ angular.module('starter', ['ionic'])
     }
   });
 })
+
+.config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {
+
+
+  $stateProvider
+    .state('search', {
+      url: '/search',
+      templateUrl: 'templates/search.html',
+      controller: 'SearchCtrl'
+    })
+
+    .state('establishment', {
+      url: '/establishment/:establishmentId',
+      templateUrl: 'templates/establishment.html',
+      controller: 'EstablishmentCtrl'
+    })
+
+  $urlRouterProvider.otherwise('/search')
+}])

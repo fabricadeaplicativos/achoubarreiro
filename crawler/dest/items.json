@@ -1,0 +1,2769 @@
+[
+	{
+		"id": "0",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/336590bdaf191606bf9936a7f7f8c7385cf79538",
+		"address": "Av. Nélio Cerqueira, n: 588 - Tirol",
+		"location": [
+			-19.9899442,
+			-44.0374685
+		],
+		"phone": "99082419",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/10260021_1423006661302878_1169198552629233715_n.jpg"
+		]
+	},
+	{
+		"id": "1",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9fd15752173e2828d77c06fb93bacf24a5ad8f17",
+		"address": "Av. Sinfrônio Brochado, n: 1140 - Barreiro de Baixo",
+		"location": [
+			-19.9776214,
+			-44.0234879
+		],
+		"phone": "33846261",
+		"email": "contato@baodmais.com.br",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc1/t1.0-9/10247199_1410300219240189_2055222862559065259_n.jpg",
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn1/t1.0-9/p417x417/1622087_1410300292573515_6734332959358665773_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/10171261_1410300259240185_5857535252403391624_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/1538827_1410300302573514_6263035158437390174_n.jpg"
+		]
+	},
+	{
+		"id": "2",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0df4dbf126d7a44b799a0bf74b791eb50ca65fb5",
+		"address": "R: Cruzeiro do Sul, n: 917 - Barreiro de Cima",
+		"location": [
+			-19.9948129,
+			-44.0102854
+		],
+		"phone": "33839090",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10346526_1432010750402469_6077474882252303126_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10151786_1432010763735801_5664047741354389495_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xfa1/t1.0-9/10437453_1432010767069134_7554839186703235629_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10302040_1432010867069124_3382500321646302060_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10435944_1432010813735796_8813422658562082162_n.jpg"
+		]
+	},
+	{
+		"id": "3",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5f58526dfd65c8df3dc16fb2a254ee35c95dd9ed",
+		"address": "R: Júlio de Mesquita, n: 262 - Itaipu",
+		"location": [
+			-19.9960066,
+			-44.0497554
+		],
+		"phone": "33825586",
+		"photos": [
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc1/t1.0-9/10174963_1419768304960047_3368212073656350410_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn1/t1.0-9/10298896_1419768294960048_1680378713844408325_n.jpg"
+		]
+	},
+	{
+		"id": "4",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/4cf2c248cec8d2aeb921698ca9359a328d867727",
+		"address": "R: José Faleiro, n: 219 - Santa Helena",
+		"location": [
+			-19.9837549,
+			-44.0134625
+		],
+		"phone": "33817604",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-prn1/t1.0-9/10325256_1427255954211282_3095141857339887728_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/10314032_1427256644211213_6539884072038075767_n.jpg"
+		]
+	},
+	{
+		"id": "5",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/efa2dc6b82b5291599de120db318c622be191ab3",
+		"address": "R: Antônio Teixeira Dias, n: 1920 - Teixeira Dias",
+		"location": [
+			-19.9881616,
+			-44.0148112
+		],
+		"phone": "33214910",
+		"email": "marcone.marciano@gmail.com",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/t1.0-9/10300870_1432715320332012_4271688970171362825_n.jpg",
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10441113_1432715240332020_8645190319934499044_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10322499_1432715233665354_1236148261270377053_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10369233_1432715230332021_8522524274900310495_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xap1/t1.0-9/10150588_1432715316998679_2276145208789562900_n.jpg"
+		]
+	},
+	{
+		"id": "6",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d72526a1e7c1f6d68621c2845dac9240daaeed10",
+		"address": "Av. Sinfrônio Brochado, n: 1268 - Barreiro de Baixo",
+		"location": [
+			-19.9770396,
+			-44.0203404
+		],
+		"phone": "33851841",
+		"photos": [
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/t1.0-9/1456742_1418479358422275_1665120874368607605_n.jpg"
+		]
+	},
+	{
+		"id": "7",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/52528031eca727c1ac29b651a673a1b87a222209",
+		"address": "R: Alcindo Vieira , n: 588 - Barreiro",
+		"location": [
+			-19.978397,
+			-44.0177056
+		],
+		"phone": "30778951",
+		"email": "phrcp@yahoo.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/t1/1960095_1392289841041227_369460280_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-ash3/t1/1947899_1392289851041226_1757314181_n.jpg"
+		]
+	},
+	{
+		"id": "8",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d1681a1eb82f4bda00db77d6579cd2b1bac4fcba",
+		"address": "R: Eridano, n: 397 - Barreiro de Cima",
+		"location": [
+			-19.997164,
+			-44.009664
+		],
+		"phone": "33813036",
+		"email": "sanderbagda@hotmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10462857_1443190532617824_7255918672151658085_n.jpg"
+		]
+	},
+	{
+		"id": "9",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7b65a51b572031e486089035b69fe9d071ee2bb8",
+		"address": "R: Antônio Teixeira Dias, n: 1609 - Teixeira Dias",
+		"location": [
+			-19.985812,
+			-44.016831
+		],
+		"phone": "25550740"
+	},
+	{
+		"id": "10",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/44f9c1377bd5ca61fd781b736134c143ba06d231",
+		"address": "Av. Olinto Meireles, n: 2500 - Barreiro de Cima",
+		"location": [
+			-19.9894398,
+			-44.0081392
+		],
+		"phone": "33839739",
+		"email": "contato@bongabonga.com.br",
+		"photos": [
+			"http://bongabonga.com.br/wp-content/uploads/2013/07/bonga_bonga1-940x360.jpg",
+			"http://bongabonga.com.br/wp-content/uploads/2012/11/site_pizzas-18-841x720.jpg",
+			"http://bongabonga.com.br/wp-content/uploads/2012/11/site_pizzas-16-841x720.jpg",
+			"http://bongabonga.com.br/wp-content/uploads/2012/11/b29-xtudo-catupiry-220x220.jpg",
+			"http://bongabonga.com.br/wp-content/uploads/2012/11/b25-x-file-220x220.jpg"
+		]
+	},
+	{
+		"id": "11",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/1a363eae42bcac65f8fcfd54a651a7c154ef638f",
+		"address": "Av. Sinfrônio Brochado, n: 1110 - Barreiro de Baixo",
+		"location": [
+			-19.977725,
+			-44.026444
+		],
+		"phone": "33855533",
+		"email": "atendimento@boquinhalanches.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/10309633_1427950900808454_1894482372716597837_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-ash3/t1.0-9/10409694_1427950890808455_8550519025225656811_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/1609917_1427950904141787_4017303024598688791_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/10407037_1427953327474878_1877850405950173891_n.jpg"
+		]
+	},
+	{
+		"id": "12",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/e4cc5a91605cadb1a34591c7322715fb34841db8",
+		"address": "Av. Sinfrônio Brochado, n: 1210 - Barreiro de Baixo",
+		"phone": "33843899",
+		"email": "deminas@celeirodeminas.com.br",
+		"photos": [
+			"http://www.celeirodeminas.com.br/site2/images/slides/slide03.jpg",
+			"http://www.celeirodeminas.com.br/site2/images/slides/vela.jpg",
+			"https://lh3.googleusercontent.com/-f5MuDgmhmXE/Ujh3cEZCVuI/AAAAAAAATjo/zfNb9dz7y-0/s0/9f4fdcf57a830cf9d8a5037874c5b24b.jpg"
+		]
+	},
+	{
+		"id": "13",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0a56c8675a168e407d08233b7ecf4ac749d26c74",
+		"address": "Av. Sinfrônio Brochado, n: 801 - Barreiro de Baixo",
+		"location": [
+			-19.982625,
+			-44.021959
+		],
+		"phone": "33846569",
+		"email": "dimaslanches@hotmail.com"
+	},
+	{
+		"id": "14",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/60c0ca299634c079b3e4581fff9e9fac2a19e77a",
+		"address": "Av. Djalma Vieira Cristo, n: 631 - Vale do Jatobá",
+		"location": [
+			-20.0107888,
+			-44.0390309
+		],
+		"phone": "33856720"
+	},
+	{
+		"id": "15",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/bb7789137f24966e05ffff6f64e1325e1c000ae1",
+		"address": "Av. Visconde de Ibituruna, n: 150 - Barreiro de Baixo",
+		"location": [
+			-19.9738533,
+			-44.0161873
+		],
+		"phone": "25157475",
+		"email": "contato@hotpastel.com.br"
+	},
+	{
+		"id": "16",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a2b0d5c0ac077114f0baa48a33f729d9c533240f",
+		"address": "R: Monte Carmelo, n: 33 - Olaria",
+		"location": [
+			-19.9936344,
+			-44.0277594
+		],
+		"phone": "33888888",
+		"email": "andersonusa2007@hotmail.com"
+	},
+	{
+		"id": "17",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ca229f84b3d48b5845f9384b7b523609bee7128d",
+		"address": "Av. Sinfrônio Brochado, n: 600 - Barreiro de Baixo",
+		"location": [
+			-19.9765324,
+			-44.0180966
+		],
+		"phone": "33847100"
+	},
+	{
+		"id": "18",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5690c842cf48239d929be32d4764fbe5860420a4",
+		"address": "R: Júlio de Mesquita, n: 288 - Marilândia",
+		"location": [
+			-19.9961263,
+			-44.0499999
+		],
+		"phone": "33853336",
+		"email": "pizzariadobigode@uol.com.br"
+	},
+	{
+		"id": "19",
+		"category": "717768",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b5928b26bf2844eb1c49b0e849b62b7b090c73e9",
+		"address": "R: Olinto Meireles, n: 2380 - Milionários",
+		"location": [
+			-19.9886584,
+			-44.0083699
+		],
+		"phone": "33369393",
+		"photos": [
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/t1.0-9/10378276_1428704774066400_7716889061621523920_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/10409445_1428704957399715_7566542565845251010_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/10349969_1428705350733009_7524044130945869075_n.jpg"
+		]
+	},
+	{
+		"id": "20",
+		"category": "717774",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/cc72f6d5dee2149415cffcf568171dd2531298ee",
+		"address": "R: Desembargador Ribeiro da Luz, n: 352 - Barreiro de Baixo",
+		"location": [
+			-19.9739098,
+			-44.0172453
+		],
+		"phone": "33844606",
+		"email": "drogariabarreiro@hotmail.com",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/1517466_1401799200090291_872525326_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/1922478_1401799283423616_2115755568_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/t1.0-9/1966735_1401799196756958_213339834_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/t1.0-9/1377114_1401799190090292_759953190_n.jpg"
+		]
+	},
+	{
+		"id": "21",
+		"category": "717774",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a5f68061c937a62e613de9e77919b1e82a18829f",
+		"address": "R: Lupércio Paixão, n: 165 - Tirol",
+		"location": [
+			-19.9928706,
+			-44.0451631
+		],
+		"phone": "33851739",
+		"email": "drogaria.cruz@yahoo.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/10294491_1419015028368708_452779328782379845_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/10306776_1419015048368706_739260469352776243_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn1/t1.0-9/10305185_1419015071702037_5907134542110154018_n.jpg"
+		]
+	},
+	{
+		"id": "22",
+		"category": "717774",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9de7e723a290f1eb04573172c9b111aa0e2f2a7d",
+		"address": "R: Américo Magalhães , n: 510 - Barreiro",
+		"location": [
+			-19.9795781,
+			-44.0232298
+		],
+		"phone": "33844056",
+		"email": "drogariarani@yahoo.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash3/t1/600185_221074558033918_106430448_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn2/t1/1384303_297658377042202_705974140_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash2/t1/598997_221074631367244_694441347_n.jpg"
+		]
+	},
+	{
+		"id": "23",
+		"category": "717782",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a8ccf671e197d818ffb5ac59d117c9867e682685",
+		"address": "Av. Senador Levindo Coelho, n: 936 - Vale do Jatobá",
+		"location": [
+			-20.0007234,
+			-44.0359908
+		],
+		"phone": "33820566",
+		"email": "kacafesta@gmail.com",
+		"photos": [
+			"http://www.kacafestas.com.br/uploads/produto_650px/imovelaee3f39a557b2d0360138fcaed71ed7f.jpg",
+			"http://www.kacafestas.com.br/uploads/produto_650px/imovel384a343f060e856b82490e379597988d.jpg",
+			"http://www.kacafestas.com.br/uploads/produto_650px/imovel40ba5879b43597cb32cf42af9576d04d.jpg"
+		]
+	},
+	{
+		"id": "24",
+		"category": "717782",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/702592393b2eb4d07fe42ab41eabf111ea260d98",
+		"address": "R: Antônio Eustáquio Piazza, n: 2825 - Tirol",
+		"location": [
+			-19.9851233,
+			-44.0363234
+		],
+		"phone": "33877121",
+		"email": "centralachou@gmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10494783_1440350822901795_8165213671484967224_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/t1.0-9/10273716_1440350829568461_2820787790534490955_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10438574_1440350836235127_6030724222654557980_n.jpg"
+		]
+	},
+	{
+		"id": "25",
+		"category": "717792",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/2856f0742a3069748f8de9223fba0645f30955de",
+		"address": "R: Alcindo Vieira, n: 210 - Barreiro de Baixo",
+		"location": [
+			-19.902696,
+			-43.964035
+		],
+		"phone": "30478873",
+		"email": "bhbarreiro1@spadassobrancelhas.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1/1549205_1388714654732079_1173156084_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/t1/1959389_1388714678065410_1385204799_n.jpg",
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn2/t1/1925025_1388714674732077_1079870643_n.jpg"
+		]
+	},
+	{
+		"id": "26",
+		"category": "717792",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5f0700f530124c31aa3e08075a542a8059608492",
+		"address": "R: José Adriano Gomes, n: 245 - Teixeira Dias",
+		"location": [
+			-19.9871321,
+			-44.0166154
+		],
+		"phone": "35687968",
+		"email": "contato@esteticaequilibrioeforma.com.br",
+		"photos": [
+			"http://www.esteticaequilibrioeforma.com.br/images/stories/massagem.jpg",
+			"http://www.esteticaequilibrioeforma.com.br/images/stories/images%201.jpg",
+			"http://www.esteticaequilibrioeforma.com.br/images/stories/depilacao-com-cera-1.jpg",
+			"http://www.esteticaequilibrioeforma.com.br/images/stories/images.jpg",
+			"http://www.esteticaequilibrioeforma.com.br/images/stories/desenho-de-sobrancelha.jpg"
+		]
+	},
+	{
+		"id": "27",
+		"category": "717792",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/06b4c2a387fa745df465d79f5bd0708f3518124d",
+		"address": "R: Cid Franco, n: 128 - Texeira Dias",
+		"location": [
+			-19.986948,
+			-44.015728
+		],
+		"phone": "25555012",
+		"email": "rosecontagem@hotmail.com"
+	},
+	{
+		"id": "28",
+		"category": "717792",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7fca81e6a35c0f74bb682f14780a858f47b2ccdc",
+		"address": "R: Ângelo Macedo, n: 445 - Barreiro de Baixo",
+		"location": [
+			-19.995793,
+			-44.009621
+		],
+		"phone": "33872771",
+		"email": "atendimento@boazhair.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/1798267_680452858681348_1084626377_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn1/t1.0-9/1010139_675778262482141_422832070_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/1902911_678483935544907_1675055149_n.jpg"
+		]
+	},
+	{
+		"id": "29",
+		"category": "717792",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0aee73a6b02a96714deacc0b76bbf1bbe822458f",
+		"address": "R: Cruzeiro do Sul, n: 1165 - Barreiro de Cima",
+		"location": [
+			-19.987041,
+			-44.013151
+		],
+		"phone": "33811588",
+		"email": "jakelibrelon@gmail.com",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-ash3/t1/1902854_1391396744463870_1256157655_n.jpg"
+		]
+	},
+	{
+		"id": "30",
+		"category": "717792",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/1007ad919436dcd527d821189a1c201233e73c6a",
+		"address": "R: Aladim Corrêa de Faria , n: 230 B - Diamante",
+		"location": [
+			-19.992087,
+			-44.0174001
+		],
+		"phone": "33850867",
+		"email": "gabiglamour@yahoo.com.br"
+	},
+	{
+		"id": "31",
+		"category": "717792",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/c5fe8dc222ef65c28f8697f26a264720b698196a",
+		"address": "Av. Visconde de Ibituruna, n: 335 sala 6 - Barreiro de Baixo",
+		"location": [
+			-19.9736761,
+			-44.016112
+		],
+		"phone": "33844005",
+		"email": "ilauralook@gmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/t1.0-9/10303780_1421080131495531_8173654651290382763_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/10329023_1421083751495169_8764438910840670816_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/10291250_1421086668161544_1341285691673944856_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/10270289_1418688138401397_1982240783110913725_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/10308138_1418688888401322_3768405962268472188_n.jpg"
+		]
+	},
+	{
+		"id": "32",
+		"category": "717792",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b529fb91b9322045b574576e5c1418f793857353",
+		"address": "R: Barão de Coromandel, n: 521 - Barreiro de Baixo",
+		"location": [
+			-20.0017652,
+			-44.0060086
+		],
+		"phone": "41032180",
+		"email": "semprebem@live.com",
+		"photos": [
+			"https://farm6.staticflickr.com/5588/15172624442_4d88e1dc21_b.jpg",
+			"https://farm4.staticflickr.com/3888/14986420908_bd56e297db_b.jpg",
+			"https://farm4.staticflickr.com/3889/14986421158_2772a43663_b.jpg"
+		]
+	},
+	{
+		"id": "33",
+		"category": "717798",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f9602bc2db16487e538862bf11ec414b36bfad17",
+		"address": "Av. Senador Levindo Coelho, n: 117 loja A - Tirol",
+		"location": [
+			-19.9886768,
+			-44.0351264
+		],
+		"phone": "33825074",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10518003_1443149502621927_4550408543136755856_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/t1.0-9/10456812_1443149512621926_7894383190945999538_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xfp1/t1.0-9/10464115_1443149505955260_436936964504472049_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10154894_1443149559288588_505686741855241781_n.jpg"
+		]
+	},
+	{
+		"id": "34",
+		"category": "717798",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f6f869cc499773cc31e781358b35c10071f975e0",
+		"address": "R: Agnelo Macedo, n: 277 - Barreiro de Baixo",
+		"location": [
+			-19.9763408,
+			-44.0189845
+		],
+		"phone": "33842071",
+		"email": "ghiacar@ghiacar.com.br",
+		"photos": [
+			"http://www.ghiacar.com.br/imagens/003.jpg",
+			"http://www.ghiacar.com.br/imagens/005.jpg",
+			"http://www.ghiacar.com.br/imagens/004.jpg"
+		]
+	},
+	{
+		"id": "35",
+		"category": "717798",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0cb1511435d5db68b11b413add8c1eedacb1cb1a",
+		"address": "R: Antônio Eustáquio Piazza, n: 3220 - Tirol",
+		"location": [
+			-19.9870067,
+			-44.0396841
+		],
+		"phone": "33823624",
+		"email": "lmrodrigues01@hotmail.com",
+		"photos": [
+			"https://scontent-b-lax.xx.fbcdn.net/hphotos-xpf1/t1.0-9/p417x417/10421426_1437112976558913_2661732277788035212_n.jpg",
+			"https://scontent-a-lax.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10401951_1437112953225582_3144982038192483917_n.jpg",
+			"https://scontent-a-lax.xx.fbcdn.net/hphotos-xap1/t1.0-9/10393831_1437112956558915_2722045689347382818_n.jpg"
+		]
+	},
+	{
+		"id": "36",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/49552fc6b0010ef608c2381a75aaab6424eddf55",
+		"address": "R: Marcelo Bernucci Sydney, n: 17 - Barreiro",
+		"location": [
+			-19.9762731,
+			-44.030764
+		],
+		"phone": "33214574",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/10004013_1410075959262615_4078850681877556657_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-frc1/t1.0-9/10151373_1410075949262616_7757425026820629038_n.jpg"
+		]
+	},
+	{
+		"id": "37",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/19bb9105aeb18dc9867cb19c1670d822b86a6a20",
+		"address": "R: Desembargador Ribeiro da Luz, n: 462 - Barreiro de Baixo",
+		"location": [
+			-19.9741124,
+			-44.0184554
+		],
+		"phone": "25512888",
+		"email": " englishwaycourses@gmail.com"
+	},
+	{
+		"id": "38",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f8516987904abbd674b93f2b97c018310971685c",
+		"address": "R: Antônio Teixeira Dias, n: 2282 - Teixeira Dias",
+		"location": [
+			-19.9914562,
+			-44.0132847
+		],
+		"phone": "33843356",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-ash3/t1.0-9/10325256_1424327961170748_3074203461663105555_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/10352786_1424327927837418_4010580242146461013_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/t1.0-9/10365899_1424327924504085_6892145386879732628_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/10368242_1424327987837412_1266010172831002306_n.jpg"
+		]
+	},
+	{
+		"id": "39",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6579893d695293eecd5c35f718e510f9d36fc775",
+		"address": "R: Flávio Marques Lisboa, n: 242 - Barreiro de Baixo",
+		"location": [
+			-19.9742413,
+			-44.0152753
+		],
+		"phone": "33841499",
+		"email": "atendimento.barreiro@numberone.com.br",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xfa1/t1.0-9/10426609_1430631963873681_7218023038248360898_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10363737_1430630190540525_3165778140950498918_n.jpg",
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10408044_1430630167207194_6525106873084670803_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10406786_1430630217207189_3375144259801537163_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10302230_1430630187207192_798860075462439192_n.jpg"
+		]
+	},
+	{
+		"id": "40",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8187bc058dab115e5accb0acf6d8013fd9171987",
+		"address": "R: Senador Levindo Coelho, n: 316 - Tirol",
+		"location": [
+			-19.9895581,
+			-44.0351468
+		],
+		"phone": "33224968",
+		"email": "aguiacfc@yahoo.com.br",
+		"photos": [
+			"http://www.autoclique.com.br/auto_escolas/clientes/246/imagens/imagem_032_1326914079.jpg",
+			"https://scontent-b-iad.xx.fbcdn.net/hphotos-xfp1/t1.0-9/10329107_1437048026565408_4644807088282808624_n.jpg",
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/p417x417/10356204_1437048029898741_3072851698712986895_n.jpg",
+			"https://scontent-a-iad.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10402895_1437048036565407_5453212333083509463_n.jpg"
+		]
+	},
+	{
+		"id": "41",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/108df3a5ee1346eb0ac865ac98a1985bff12c57a",
+		"address": "R: Eridano, n: 15 - Cardoso",
+		"location": [
+			-19.9959453,
+			-44.0062361
+		],
+		"phone": "33877000",
+		"email": "cfcsuperpositiva@hotmail.com",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc3/l/t1/10001309_1392288051041406_914261086_n.jpg"
+		]
+	},
+	{
+		"id": "42",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7046201b24d5e0c92be67a4278062ff0bcd9a102",
+		"address": "Av. Senador Levindo Coelho, n: 3332 - Magueiras",
+		"location": [
+			-20.0120509,
+			-44.0330583
+		],
+		"phone": "33859101",
+		"email": "cfctoledomatriz@gmail.com"
+	},
+	{
+		"id": "43",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/aafe0f6b28b482b8581a135dd90977bb28d48b48",
+		"address": "R: Desembargador Ribeiro Luz, n: 132 - Barreiro de Baixo",
+		"phone": "33844966",
+		"email": "barreiro.corp@ccaa.com.br"
+	},
+	{
+		"id": "44",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a19dec79f3875fbb123171fa94f4f3a616da390d",
+		"address": "R: Sabrina Ferreira de Oliveiras, n: 184 - Barreiro de Cima",
+		"location": [
+			-19.975547,
+			-44.018955
+		],
+		"phone": "97370134",
+		"email": "contato@ienglish.com.br"
+	},
+	{
+		"id": "45",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8b55ecc98b1e26a4757f9d12c6e1a2e47a700fc0",
+		"address": "R. Sirius, n: 60 - Barreiro de Cima",
+		"location": [
+			-19.902696,
+			-43.964035
+		],
+		"phone": "33837076",
+		"email": "ietdias@oi.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-frc3/t1/1507014_1390218401248371_952081400_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/t1/1979896_1390218427915035_1210407820_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/t1/1926829_1390218421248369_1602139108_n.jpg"
+		]
+	},
+	{
+		"id": "46",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fb209b249261dc501731247f7f88961a0ac992e7",
+		"address": "Av. Sinfrônio Brochado, n: 939 - Barreiro de Baixo",
+		"location": [
+			-20.02646,
+			-44.058373
+		],
+		"phone": "33847363",
+		"email": "atendimento@preabsoluto.com.br"
+	},
+	{
+		"id": "47",
+		"category": "717818",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b832fd27ec9803bc86625403ef60264c391ce72c",
+		"address": "Av. Visconde de Ibituruna, n: 19 - Barreiro de Baixo",
+		"location": [
+			-19.9726209,
+			-44.0164391
+		],
+		"phone": "33845414",
+		"email": "toquenatural2011@gmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/t1.0-9/10150738_1404861039784107_831294577_n.jpg",
+			"https://scontent-b-lga.xx.fbcdn.net/hphotos-ash4/t1.0-9/1452176_1404861033117441_804433450_n.jpg"
+		]
+	},
+	{
+		"id": "48",
+		"category": "717822",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5ee416600d7151d60d7a79ef1fe700bd85ea65b9",
+		"address": "R: Castor, n: 129 - Barreiro de Cima",
+		"location": [
+			-19.995039,
+			-44.011539
+		],
+		"phone": "33889229",
+		"email": "drsinformatica@hotmail.com",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc1/t31.0-8/1921228_601647116582188_1612866793_o.jpg"
+		]
+	},
+	{
+		"id": "49",
+		"category": "717822",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fe3684f7b9457629773d44a4de0173987ebde8eb",
+		"address": "R: Joaquim de Figueiredo, n: 235 C - Barreiro de Baixo",
+		"location": [
+			-19.918691,
+			-43.959833
+		],
+		"phone": "33842277",
+		"email": "edsonassistencia@hotmail.com"
+	},
+	{
+		"id": "50",
+		"category": "717822",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/301e59bfc8c2c742328cbdab2c03d4713f345fe6",
+		"address": "R: Flávio Marques Lisboa, n: 381 - Barreiro de Baixo",
+		"location": [
+			-19.918691,
+			-43.959833
+		],
+		"phone": "33847784",
+		"email": "infor.tech@uol.com.br"
+	},
+	{
+		"id": "51",
+		"category": "717822",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/bfa8747868d7a97d964649f56abefe16a586a473",
+		"address": "R: Aladim Corrêa de Faria, n:  206 - Santa Cruz",
+		"location": [
+			-19.9938837,
+			-44.0168927
+		],
+		"phone": "33244758",
+		"email": "valdnerhernane@hotmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/10310670_1424617341141810_6220079928273426065_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/10259917_1424617134475164_2645468413291292070_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn1/t1.0-9/10151753_1424617144475163_4386132521611028020_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/1907986_1424617331141811_7425454460498994746_n.jpg"
+		]
+	},
+	{
+		"id": "52",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f8918d52893ca5eab13f053f33d759516e0fd5f7",
+		"address": "Av. Nélio Cerqueira, n: 588 - Tirol",
+		"location": [
+			-19.9899442,
+			-44.0374685
+		],
+		"phone": "99082419",
+		"photos": [
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash2/t1.0-9/521382_266496276816798_1426100602_n.jpg"
+		]
+	},
+	{
+		"id": "53",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a92cb51e64c821d1f8c9def248b8cda3cb7972c9",
+		"address": "R: Três Marias, n: 309 - Miramar",
+		"location": [
+			-19.9949381,
+			-44.0133756
+		],
+		"phone": "86152913",
+		"email": "antonioestefanio2010@hotmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/p417x417/10150530_1438009599802584_6740531306683484359_n.jpg",
+			"https://scontent-a-lga.xx.fbcdn.net/hphotos-xfp1/t1.0-9/p417x417/10388128_1438009589802585_8107569962514123161_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10384742_1438009526469258_266823720160030223_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/p417x417/10456011_1438009533135924_8263630077258737766_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10450425_1438011699802374_7714703236068292135_n.jpg"
+		]
+	},
+	{
+		"id": "54",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d2e0fa2ec1c211dc88a0a0ba05a99556ca712311",
+		"address": "R: Caetano de Vasconcelos, n: 259 - Tirol",
+		"location": [
+			-19.9868048,
+			-44.0391597
+		],
+		"phone": "33899923"
+	},
+	{
+		"id": "55",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/64e0aecf3bd560fb04900186f581935f971f6178",
+		"address": "R: Cruzeiro do Sul, n: 1088 - Bairro Miramar - Barreiro de Cima",
+		"location": [
+			-19.9963116,
+			-44.0098255
+		],
+		"phone": "30479627",
+		"email": "noclubinho@hotmail.com"
+	},
+	{
+		"id": "56",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6da67b9a0c16dd4b12b1451aef6330898eb048e8",
+		"address": "Av. Sinfrônio Brochado, n:1019 - Barreiro de Baixo",
+		"location": [
+			-19.9775275,
+			-44.0221296
+		],
+		"phone": "35869864",
+		"email": "restaurantepreciosogourmet@outlook.com",
+		"photos": [
+			"https://farm4.staticflickr.com/3938/15284997048_44a872762d_b.jpg",
+			"https://farm3.staticflickr.com/2946/15471624325_bd20cfbc36_b.jpg",
+			"https://farm3.staticflickr.com/2946/15448541556_c90b633d97_b.jpg",
+			"https://farm6.staticflickr.com/5604/15284996638_e3ca15a1b6_b.jpg",
+			"https://farm4.staticflickr.com/3940/15284920210_3f2f241997_b.jpg",
+			"https://farm6.staticflickr.com/5599/15448541756_b0fa300906_b.jpg",
+			"https://farm6.staticflickr.com/5611/15285063077_15947c7b70_b.jpg",
+			"https://farm4.staticflickr.com/3941/15285288708_578c6bebb0_b.jpg",
+			"https://farm3.staticflickr.com/2948/15286648279_cdc3ca9724_b.jpg",
+			"https://farm3.staticflickr.com/2947/15473189732_df732b9b6b_b.jpg"
+		]
+	},
+	{
+		"id": "57",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d28ec61040131807e97b146d2d11946b4482fdcc",
+		"address": "R: Nelson Cleiton Linon, n: 255 - Santa Helena",
+		"location": [
+			-19.9843671,
+			-44.0141943
+		],
+		"phone": "88967423",
+		"email": "espetinhosidoca@hotmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10478217_1437136193223258_7685968880328311584_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10462725_1437136196556591_7614331774197229631_n.jpg",
+			"https://scontent-b-iad.xx.fbcdn.net/hphotos-xfp1/t1.0-9/10306725_1437136199889924_5721516835846233840_n.jpg",
+			"https://scontent-a-iad.xx.fbcdn.net/hphotos-xaf1/t1.0-9/10426805_1437136276556583_2705292446543093177_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10366006_1437142399889304_7426868281461243708_n.jpg"
+		]
+	},
+	{
+		"id": "58",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5fa6fc9049fd76c890cb226cd80efe2535e666eb",
+		"address": "Av. Djalma Vieira Cristo, n: 755 - Vale do Jatobá",
+		"location": [
+			-20.0099109,
+			-44.0394018
+		],
+		"phone": "33367459",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/t1/1966799_1391367984466746_1108280592_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc3/t1/1800409_1391367977800080_1964385492_n.jpg"
+		]
+	},
+	{
+		"id": "59",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/678bad548df37aa9a860a7cac7742ef8d2962dad",
+		"address": "R: dos Atleticanos, n: 1098 - Milionários",
+		"location": [
+			-19.9804608,
+			-44.0015025
+		],
+		"phone": "33174110",
+		"email": "bardoalcidesbh@gmail.com",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10505542_1440830369520507_2106462984079480709_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10250300_1440830396187171_4367990822569268095_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xfp1/t1.0-9/10491207_1440833542853523_7841032777809171670_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10487584_1440833546186856_8208688278848696364_n.jpg"
+		]
+	},
+	{
+		"id": "60",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6bdd530f816b84709c24fbdd04ec593c352e1706",
+		"address": "R: Guia Lobo, n: 100 - Barreiro de Cima",
+		"location": [
+			-19.9890162,
+			-44.0002935
+		],
+		"phone": "93629017",
+		"email": "contato@quintalcapimguine.com.br",
+		"photos": [
+			"https://farm4.staticflickr.com/3861/15030003097_d01a1f072b_b.jpg"
+		]
+	},
+	{
+		"id": "61",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3de2dc4425b8c1a177533fa570d8892b1b19fac7",
+		"address": "Av. Sinfrônio Brochado, n: 868 - Barreiro de Baixo",
+		"location": [
+			-19.9771104,
+			-44.0207938
+		],
+		"phone": "88339493",
+		"email": "luciano@bardolu.com.br"
+	},
+	{
+		"id": "62",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/34912c8c164f1d14c616c3cd58b76413c8bdb412",
+		"address": "Av. Afonso Vaz de Melo, n: 1305 - Barreiro de Baixo",
+		"location": [
+			-19.9784814,
+			-44.0267892
+		],
+		"phone": "25312929",
+		"email": "luciano@bardolu.com.br"
+	},
+	{
+		"id": "63",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b4359e81277a5cbbaf187fa48b454a7534ebe6b6",
+		"address": "R: Aladim Corrêa de Faria, n: 985 - Barreiro de Cima",
+		"phone": "33810125",
+		"email": "contato@bardorei.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/t1/564040_471952479543592_1333681465_n.jpg",
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/t1/602787_532531940152312_1575280630_n.jpg"
+		]
+	},
+	{
+		"id": "64",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/12981c15565913ed5114fa4087e582977cc93b67",
+		"address": "Av. Sinfrônio Brochado, n: 1457 loja 01 - Barreiro de Baixo",
+		"location": [
+			-19.902696,
+			-43.964035
+		],
+		"phone": "93880081",
+		"email": "edsonassistencia@hotmail.com"
+	},
+	{
+		"id": "65",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9b85d57dc0bc674ca40e6d26b7afb5f929ddcfa6",
+		"address": "R: Flávio Marques Lisboa, n: 125 B - Barreiro de Baixo",
+		"location": [
+			-19.9732331,
+			-44.0153151
+		],
+		"phone": "25155858",
+		"email": "manoel_rios@hotmail.com",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10463950_1447294808874063_1979904717987136519_n.jpg",
+			"https://farm4.staticflickr.com/3923/14777790737_eeb9f42c43_b.jpg",
+			"https://farm6.staticflickr.com/5571/14777753238_89964046ff_b.jpg",
+			"https://farm4.staticflickr.com/3918/14777684849_dbc9d8c2d1_b.jpg",
+			"https://farm6.staticflickr.com/5552/14941350016_194a871abc_b.jpg"
+		]
+	},
+	{
+		"id": "66",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d092263f0bb697384b410237e1f83f8a04a48aa8",
+		"address": "R: Antonio Teixeira Dias, n: 1980 - Teixeira Dias",
+		"location": [
+			-19.9883828,
+			-44.0146201
+		],
+		"phone": "25524836",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/t1/995672_139835262885822_335428689_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn2/t1/5596_139835012885847_1694062043_n.jpg"
+		]
+	},
+	{
+		"id": "67",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ef3d30e80e91a7737bf5ca7a178eb80bc332218c",
+		"address": "Av. Álvaro da Silveira, n: 10 - Barreiro",
+		"location": [
+			-19.9715964,
+			-44.0154881
+		],
+		"phone": "33627554",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/10260003_1424331117837099_7547471752855798900_n.jpg"
+		]
+	},
+	{
+		"id": "68",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/20c690c0c32172f1a342b72ab199ba54def1f08d",
+		"address": "Av. Nélio Cerqueira, n: 1162 - Barreiro de Baixo",
+		"phone": "33824307",
+		"email": "chico.tirol@yahoo.com.br"
+	},
+	{
+		"id": "69",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/c657f9a0918ed268f2517c30a477a34249ceaf0a",
+		"address": "Av. Sinfrônio Brochado, n: 875 - Barreiro de Baixo",
+		"location": [
+			-19.97714,
+			-44.020779
+		],
+		"phone": "33841172"
+	},
+	{
+		"id": "70",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/24eabe1cbcde0a7ee64e7f3110577d705ca8b7e4",
+		"address": "Av. Sinfrônio Brochado, n: 1457 - Barreiro de Baixo",
+		"location": [
+			-19.981355,
+			-44.023976
+		],
+		"phone": "25160555",
+		"photos": [
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/t1/1797349_189053114639148_87008728_n.jpg",
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t1/1618626_185693454975114_1451436111_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn1/t1/946728_170759793135147_1135544773_n.jpg"
+		]
+	},
+	{
+		"id": "71",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fde71902f6a7b9aee5a1acd32436823bc73a2771",
+		"address": "Av. Sinfrônio Brochado, n: 1257 - Barreiro de Baixo",
+		"location": [
+			-19.918691,
+			-43.959833
+		],
+		"phone": "33845077",
+		"email": "esbetosbarreiro@yahoo.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash4/t1.0-9/10157221_1417437561859788_2462914344538477743_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/10270675_1417356801867864_5281161812502715116_n.jpg"
+		]
+	},
+	{
+		"id": "72",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3e868a94160d6ef414a340627ee2f756d494aadb",
+		"address": "R: José Brandão, n: 83 - Barreiro",
+		"location": [
+			-19.9740337,
+			-44.0143018
+		],
+		"phone": "85882985",
+		"email": "jamaicabarreirobh@gmail.com"
+	},
+	{
+		"id": "73",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/e8c5d392e01b4797b7278a56b47dc7a96661bd1b",
+		"address": "R. Honório Hermeto, n: 63 - Barreiro de Baixo",
+		"location": [
+			-19.9740191,
+			-44.0185942
+		],
+		"phone": "33851954",
+		"photos": [
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/10156035_1410636292539915_8047697635973035023_n.jpg"
+		]
+	},
+	{
+		"id": "74",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/329cb7ca4d7e9863b4c9ccb40e1a51085608b813",
+		"address": "R. Caetano Pirri, n: 246 - Milionários",
+		"location": [
+			-19.9843754,
+			-44.0074303
+		],
+		"phone": "36585054",
+		"email": "diretoria@oishibh.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10454300_1435390556731155_2580208371741640276_n.jpg",
+			"https://scontent-a-iad.xx.fbcdn.net/hphotos-xap1/t1.0-9/10440840_1435390553397822_2301004320320054695_n.jpg",
+			"https://scontent-a-iad.xx.fbcdn.net/hphotos-xpa1/t1.0-9/p417x417/10405275_661294783952422_8962653971914657029_n.jpg"
+		]
+	},
+	{
+		"id": "75",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/2ae6bf6d5ea193313bcb2282969d31b763d16399",
+		"address": "Av. Américo Magalhães, n: 617 - Barreiro de Baixo",
+		"phone": "25165911",
+		"email": "mariana@restauranteprosamineira.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10154225_1404900153113529_593174822_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xfp1/t1.0-9/10463050_1447287585541452_516843936119920383_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xap1/t1.0-9/1604442_1404900126446865_723966434_n.jpg"
+		]
+	},
+	{
+		"id": "76",
+		"category": "717926",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d5b4cb1389080d920ca5a10c656de71adfb70852",
+		"address": "Av. Sinfrônio Brochado, n: 1006 loja 2 - Barreiro de Baixo",
+		"location": [
+			-19.980205,
+			-44.014471
+		],
+		"phone": "25148844",
+		"email": "basoares2011@bol.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn2/t1/10585_475286442552457_1858942853_n.png",
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn1/t1/62137_397719093642526_417333463_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/t1/16778_397718366975932_246378843_n.jpg"
+		]
+	},
+	{
+		"id": "77",
+		"category": "844286",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/81f41403480cf70a7def8f96fead7253e43d0759",
+		"address": "R: José Gonçalves, n: 860, apto 301 - Barreiro de Baixo",
+		"location": [
+			-19.9751719,
+			-44.0228438
+		],
+		"phone": "33388854",
+		"email": "thais@alvesduarte.adv.br",
+		"photos": [
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/1069415_1399413470328864_1072338509_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn1/t1/933887_530474116999599_504123676_n.jpg"
+		]
+	},
+	{
+		"id": "78",
+		"category": "844286",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/11bda587707d564df015581b8adcbe82c050bf6c",
+		"address": "Av. Waldyr Soeiro Emrich, n: 3161 - Barreiro",
+		"location": [
+			-19.9892138,
+			-44.0111577
+		],
+		"phone": "36462391",
+		"email": "cristiano@axiacontabilidade.com.br"
+	},
+	{
+		"id": "79",
+		"category": "844286",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9a891c20f2696b10d3f49ec0a0c85198b7c3fa94",
+		"address": "R: Alcindo Vieira,  n: 425 - Barreiro de Baixo",
+		"location": [
+			-19.972139,
+			-44.014406
+		],
+		"phone": "33841250",
+		"email": "pedroadv@r7.com"
+	},
+	{
+		"id": "80",
+		"category": "844286",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/717b4aba49801d1605a5370810329830a30bdb89",
+		"address": "Av. Sinfrônio Brochado, n: 838 - Barreiro de Baixo",
+		"location": [
+			-19.902696,
+			-43.964035
+		],
+		"phone": "33844760",
+		"email": "fernandoguerra.adv@gmail.com"
+	},
+	{
+		"id": "81",
+		"category": "844294",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/64f577b2e20a252c1373c3fe2fa9d162caf622b6",
+		"address": "R: da Paisagem, n: 220 - 1 andar - Vila da Serra-Nova Lima",
+		"location": [
+			-19.981937,
+			-43.946113
+		],
+		"phone": "30185639",
+		"email": "centralachou@gmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10509685_796826350369468_3720086033707784406_n.png",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xpf1/t1.0-9/10353116_795866260465477_5857140455869230086_n.png",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10509685_796826350369468_3720086033707784406_n.png"
+		]
+	},
+	{
+		"id": "82",
+		"category": "844294",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/01fe770e0a3d62a41b059abfc86f42a7f911d954",
+		"address": "Av. Senador Levindo Coelho, n: 3371 - Mangueiras",
+		"location": [
+			-20.0120923,
+			-44.0330083
+		],
+		"phone": "25382742",
+		"email": "contato@academiaaltavida.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10350437_1433139106956300_8988239593007792270_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xfp1/t1.0-9/10420182_1433139080289636_2117355701230661548_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10428040_1433139063622971_1683633261466733015_n.jpg",
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10341882_1433139053622972_4397488621114364325_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10363928_1433139133622964_8805385035671959754_n.jpg"
+		]
+	},
+	{
+		"id": "83",
+		"category": "844294",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/892801721a0982c52fdf2e267e3f6e44ce9fea8d",
+		"address": "R: Caetano Pirri, n: 222 - Milionários",
+		"location": [
+			-19.984597,
+			-44.0078831
+		],
+		"phone": "33837570",
+		"email": "mergulho@mergulhobh.com.br",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/t1.0-9/p417x417/68684_1432796010323943_5979549285014940000_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xaf1/t1.0-9/p417x417/10306459_1432796110323933_5571186542971745107_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10303453_1432796120323932_168238567392729789_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10389229_1432796036990607_5910746191064586896_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xfa1/t1.0-9/10411310_1432796096990601_1863381209133615253_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xfp1/t1.0-9/10441520_1432796076990603_3245933950053518554_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10377523_1432796043657273_5894865751111686663_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xpa1/t1.0-9/1527048_1432796056990605_583558500854229613_n.jpg"
+		]
+	},
+	{
+		"id": "84",
+		"category": "844294",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f6cd252ce69bb126a98200b79569c0a8396233d1",
+		"address": "Av. Sinfrônio Brochado, n: 176 - Barreiro de Baixo",
+		"location": [
+			-19.9757226,
+			-44.0142592
+		],
+		"phone": "30476666",
+		"email": "contato@academiasensus.com.br",
+		"photos": [
+			"https://farm4.staticflickr.com/3881/15145682820_2abd70c199_b.jpg",
+			"https://farm3.staticflickr.com/2943/15332089052_fd160ab995_b.jpg",
+			"https://farm3.staticflickr.com/2942/15145806598_08885df455_b.jpg",
+			"https://farm3.staticflickr.com/2943/15332090172_e02b138502_b.jpg",
+			"https://farm4.staticflickr.com/3857/15145859657_bc0381dcf5_b.jpg",
+			"https://farm4.staticflickr.com/3916/15145809168_845a076b1b_b.jpg",
+			"https://farm4.staticflickr.com/3845/15145863197_09691a579a_b.jpg",
+			"https://farm4.staticflickr.com/3866/15145864017_3fe92ebb7b_b.jpg",
+			"https://farm4.staticflickr.com/3871/15332402025_86d704f200_b.jpg",
+			"https://farm4.staticflickr.com/3837/15309360956_870c9fbc0b_b.jpg"
+		]
+	},
+	{
+		"id": "85",
+		"category": "844294",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/18d4bb9c57216e3c3650bf5b0290a803164f1177",
+		"address": "R: Oliveira Lisboa, n: 40 - Barreiro de Baixo",
+		"location": [
+			-19.983432,
+			-44.00784
+		],
+		"phone": "33845437",
+		"email": "tatiane.alternativa@outlook.com",
+		"photos": [
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-frc3/t1/303027_308794795804265_531391600_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-frc3/t1/307295_308794839137594_1215677213_n.jpg",
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash2/t1/304153_308795585804186_897442012_n.jpg"
+		]
+	},
+	{
+		"id": "86",
+		"category": "844294",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/59120f463e9d3bad32a904e58f67caa19a3525bf",
+		"address": "R: Antônio Teixeira Dias, n: 1609 loja 3 - Teixeira Dias",
+		"location": [
+			-19.985872,
+			-44.016616
+		],
+		"phone": "30447120",
+		"photos": [
+			"https://scontent-a-iad.xx.fbcdn.net/hphotos-prn2/t1/1236279_562093660504722_398984633_n.jpg",
+			"https://scontent-a-iad.xx.fbcdn.net/hphotos-ash3/t1/1001427_544369288943826_1798074903_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash4/t1/1151045_542869129093842_1234172404_n.jpg"
+		]
+	},
+	{
+		"id": "87",
+		"category": "844294",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d8d4c7a5fdef93e66f58f920a1c76ff3410da679",
+		"address": "R: Julio Mesquita, n: 53 - Tirol",
+		"location": [
+			-19.9951302,
+			-44.0470062
+		],
+		"phone": "33225024",
+		"email": "andersonreuben@ig.com.br",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/10150728_1402137756723102_2005402526_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/1240093_1402137733389771_517869612_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-frc1/t1.0-9/1661105_1402137736723104_862526615_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc1/t1.0-9/1962665_1402137690056442_1428917274_n.jpg"
+		]
+	},
+	{
+		"id": "88",
+		"category": "844294",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6154dca386fc95b6bf0c54ad37dd1b431b06cdcf",
+		"address": "R: Caetano Pirri, n: 262 - Milionários",
+		"location": [
+			-19.9839556,
+			-44.0067136
+		],
+		"phone": "33225927",
+		"email": "valeriasportseven@yahoo.com.br"
+	},
+	{
+		"id": "89",
+		"category": "844294",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a6963c52f0d763cb791b7e9fbf77815bc50b9848",
+		"address": "R: Cruzeiro do Sul, n: 1075 - Barreiro de Cima",
+		"location": [
+			-19.9962252,
+			-44.0098372
+		],
+		"phone": "25233447",
+		"email": "kaioantunespersonal@gmail.com",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1888661_744271882263651_705015470_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/1972544_765402906817215_2121478743_n.jpg"
+		]
+	},
+	{
+		"id": "90",
+		"category": "844294",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f42e1fd9b09fe960aa53ed20afdf2812d7be7c91",
+		"address": "R: Flávio Marques Lisboa, n: 314 - Barreiro de Baixo",
+		"location": [
+			-19.9749551,
+			-44.0150238
+		],
+		"phone": "33830428"
+	},
+	{
+		"id": "91",
+		"category": "844302",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b2f0498ff7dfed479e1e3b829512abde228807f1",
+		"address": "R: Nélio Cerqueira, n: 770 - Tirol",
+		"location": [
+			-19.9915667,
+			-44.0391948
+		],
+		"phone": "33220558",
+		"email": "paccelioliveira@yahoo.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/p417x417/10173817_1433279966942214_6686500006846510941_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xfa1/t1.0-9/10314037_1433280533608824_772178278039591633_n.jpg"
+		]
+	},
+	{
+		"id": "92",
+		"category": "844302",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d30e4a2bfd62536aefafa52a7acc69db8fc761b6",
+		"address": "R: Cruzeiro do Sul, n: 63 - Barreiro",
+		"location": [
+			-19.9664451,
+			-44.0248325
+		],
+		"phone": "33630012",
+		"email": "gasbalu@hotmail.com"
+	},
+	{
+		"id": "93",
+		"category": "844302",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5f236ed748a1acdfc3a801c33d5ee80c1c146b93",
+		"address": "R: Joaquim de Figueiredo, n: 1480 - Barreiro",
+		"location": [
+			-19.972078,
+			-44.01814
+		],
+		"phone": "33825825",
+		"photos": [
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc1/t1.0-9/10176158_1409313239338887_4684850852810933837_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/10151865_1409313249338886_5102704177763933337_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-ash3/t1.0-9/10156019_1409313256005552_1041350237771269168_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc3/l/t1.0-9/1897787_1409313279338883_6762234701131878373_n.jpg"
+		]
+	},
+	{
+		"id": "94",
+		"category": "844302",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b88c3e847c68dc0a4c8d59e88680e839103a1001",
+		"address": "R: Carlos Chagas, 421 - Jardim Industrial",
+		"location": [
+			-19.9768632,
+			-44.0390903
+		],
+		"phone": "33855050",
+		"email": "edianadelima@yahoo.com.br"
+	},
+	{
+		"id": "95",
+		"category": "844302",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b08d167755cf4da0b8eff86b66f56d61dc365227",
+		"address": "Av. Perimetral, n: 350 - Vila Pinho",
+		"location": [
+			-19.9977162,
+			-44.0206073
+		],
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xfa1/t1.0-9/10392513_1442586992678178_3477673044437623264_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10419032_1442587006011510_4286116714243426038_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xfp1/t1.0-9/1554376_1442587306011480_2142887554276526721_n.jpg"
+		]
+	},
+	{
+		"id": "96",
+		"category": "844302",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/bcd4b4724f38483764c4b4c6481ef9dfbec7e0cb",
+		"address": "R: Francisco Duarte Mendonça, n: 819 - Barreiro",
+		"location": [
+			-19.977624,
+			-44.025006
+		],
+		"phone": "33889398",
+		"email": "gaspressgas@gmail.com"
+	},
+	{
+		"id": "97",
+		"category": "844304",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/c741b6c7a4ca0aa5ebd258ea54b346f52633bca4",
+		"address": "R: Córrego da Mata, n: 149 - Santa Cecília",
+		"location": [
+			-20.0031357,
+			-44.0326069
+		],
+		"phone": "33896050",
+		"email": "clima@armandoclima.com.br",
+		"photos": [
+			"https://scontent-b-iad.xx.fbcdn.net/hphotos-xfa1/t1.0-9/p417x417/542063_139784732817491_741721215_n.jpg",
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xaf1/t1.0-9/542063_139784776150820_1679328124_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/t1.0-9/542063_139784779484153_764333690_n.jpg",
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/p417x417/10320425_503632386432722_1858736597625168060_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/p417x417/10003332_477692655693362_1793809487_n.jpg"
+		]
+	},
+	{
+		"id": "98",
+		"category": "844304",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5f76b31550b51f01269769edb34b3573c58cc24e",
+		"address": "Av. Waldyr Soeiro Emrich, 3341 - Via do Minério",
+		"location": [
+			-19.9899913,
+			-44.0126376
+		],
+		"phone": "33890654",
+		"email": "locforte02@yahoo.com.br",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/10361053_1428150304121847_3675880008173516654_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/10398099_1428150294121848_9068899037803929374_n.jpg",
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/10262003_1428150307455180_5067778375251721235_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/10292538_1428150350788509_3170577099212610729_n.jpg"
+		]
+	},
+	{
+		"id": "99",
+		"category": "844304",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b6b7bc536942f2eecbe4341bd38e2b2409a0522a",
+		"address": "Av. Sinfrônio Brochado, n: 939 - Barreiro de Baixo",
+		"location": [
+			-19.9770396,
+			-44.0203404
+		],
+		"phone": "33841544",
+		"email": "ditao@redegminas.com.br",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn1/t1.0-9/10174815_1425427077727503_2807107700869379137_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/10377630_1425426877727523_7453638367673206923_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/10372052_1425426941060850_5768809315752829393_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/1798565_1425426894394188_2066357245079284469_n.jpg"
+		]
+	},
+	{
+		"id": "100",
+		"category": "844304",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/602dcfd41412a1ebaca8f7f5556719467239bbf4",
+		"address": "R: Djalma Vieira Cristo, n: 1445 - Vale do Jatobá",
+		"location": [
+			-20.0064874,
+			-44.0347184
+		],
+		"phone": "33369126",
+		"email": "es.jt@hotmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10383097_1438028506467360_4941236181157384093_n.jpg",
+			"https://scontent-b-lga.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10441179_1438028493134028_8616326232468056891_n.jpg",
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10385415_1438028516467359_2149638601658937285_n.jpg"
+		]
+	},
+	{
+		"id": "101",
+		"category": "844304",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/167b8f88cf37750ad427b6afb2829113aa9f14ce",
+		"address": "Av. Sinfrônio Brochado, n: 903 - Barreiro de Baixo",
+		"location": [
+			-19.9771589,
+			-44.0209432
+		],
+		"phone": "33845133",
+		"email": "eletroluzesbh@gmail.com",
+		"photos": [
+			"https://farm4.staticflickr.com/3847/15059712381_8d0576e247_b.jpg",
+			"https://farm6.staticflickr.com/5590/14876022529_b53da890c0_b.jpg",
+			"https://farm4.staticflickr.com/3871/15062384842_acc6642a0d_o.jpg",
+			"https://farm4.staticflickr.com/3888/15039738596_2fe1905878_b.jpg",
+			"https://farm6.staticflickr.com/5568/15062735205_0c8a423639_b.jpg"
+		]
+	},
+	{
+		"id": "102",
+		"category": "844312",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/e3d30744e895c59cfffa001d8065533e70c053e1",
+		"address": "R: Desembargador Ribeiro da Luz, n: 295 - Barreiro",
+		"location": [
+			-19.9738463,
+			-44.0168243
+		],
+		"phone": "33214981",
+		"email": "opticacentraldobarreiro@hotmail.com",
+		"photos": [
+			"https://scontent-b-lga.xx.fbcdn.net/hphotos-xfp1/t1.0-9/10341727_1437959113140966_7177460826711825877_n.jpg",
+			"https://scontent-b-lga.xx.fbcdn.net/hphotos-xfp1/t1.0-9/10409730_1437959086474302_6019801691766562403_n.jpg",
+			"https://scontent-a-lga.xx.fbcdn.net/hphotos-xaf1/t1.0-9/1514591_1437959083140969_6172469739817470799_n.jpg"
+		]
+	},
+	{
+		"id": "103",
+		"category": "844312",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/2641973eeeb6464bf414bde7be8b56c61147f2da",
+		"address": "R: Barão de Coromandel, n: 379 - Barreiro",
+		"location": [
+			-19.9750998,
+			-44.0166239
+		],
+		"phone": "33842186",
+		"email": "bellavisao@bellavisao.com.br"
+	},
+	{
+		"id": "104",
+		"category": "2574625",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/98b2438577f6b2e33a946e522d34f312a4270196",
+		"address": "Av. Afonso Vaz de Melo, n: 1.275 - Barreiro de Baixo",
+		"location": [
+			-19.977858,
+			-44.0258589
+		],
+		"phone": "33846143",
+		"email": "acaibomdemaiss@hotmail.com.br",
+		"photos": [
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc1/t1.0-9/1962876_1406522269617984_1097334087_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-prn1/t1.0-9/10009897_1406522326284645_735913829_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-frc1/t1.0-9/1970674_1406522272951317_1737539310_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/10171926_1406522289617982_340262746_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/10173558_1406522319617979_687018133_n.jpg"
+		]
+	},
+	{
+		"id": "105",
+		"category": "2574625",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5f58ade643562d08003aa7d8889c60150143f138",
+		"address": "R: Aladim Corrêa de Faria, n: 328 B - Barreiro de Cima",
+		"phone": "35869856",
+		"email": "nineacris@hotmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-frc1/t1/1966874_1391377564465788_1490787731_n.jpg"
+		]
+	},
+	{
+		"id": "106",
+		"category": "2574625",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/73167588b1a8760577d6ac09b19637578d7e329e",
+		"address": "R: Antônio Teixeira Dias, n: 1738, loja 1 - Teixeira Dias",
+		"location": [
+			-19.986477,
+			-44.01608
+		],
+		"phone": "25559140",
+		"email": "geruza@acaitche.com.br",
+		"photos": [
+			"https://farm6.staticflickr.com/5573/14894790311_ab8a96c5c4_b.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-prn1/t1.0-9/10277463_1425421321061412_545259296753942571_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-frc3/t1/315586_102659023179165_2011070167_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/12105_1408097082793836_2053000998_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/1375934_1408097076127170_1534145160_n.jpg"
+		]
+	},
+	{
+		"id": "107",
+		"category": "2574625",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7a1649443ed442985e8cdd6d63839a2f913ab07d",
+		"address": "Av. Sinfrônio Brochado, n: 1243 - Barreiro de Baixo",
+		"location": [
+			-19.901699,
+			-43.959732
+		],
+		"phone": "35675159",
+		"email": "redeacaibarreiro@hotmail.com",
+		"photos": [
+			"https://farm6.staticflickr.com/5551/14530242110_8cc23aa051_o.jpg",
+			"https://farm4.staticflickr.com/3903/14530258889_bc0b53c271_o.jpg",
+			"https://farm3.staticflickr.com/2933/14736779593_dfddfc4066_o.jpg",
+			"https://farm4.staticflickr.com/3917/14530214380_0c54813556_o.jpg"
+		]
+	},
+	{
+		"id": "108",
+		"category": "2574769",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0f7eb45f694cce99e7756c7d58ee736365c45729",
+		"address": "R: Joaquim Figueiredo, n: 308 - Barreiro de Baixo",
+		"location": [
+			-19.9755996,
+			-44.0166416
+		],
+		"phone": "33845460",
+		"email": "laguscopiadora@laguscopiadora.com.br",
+		"photos": [
+			"https://farm4.staticflickr.com/3913/14844320789_803a90d442_b.jpg",
+			"https://farm6.staticflickr.com/5579/14844513137_f99107603c_b.jpg",
+			"https://farm6.staticflickr.com/5594/14844515597_cc68c91942_b.jpg",
+			"https://farm6.staticflickr.com/5573/15027999311_5794b47336_b.jpg",
+			"https://farm6.staticflickr.com/5556/14844320049_07b50a5fcb_b.jpg",
+			"https://farm4.staticflickr.com/3880/14844513057_09e3355b1d_b.jpg",
+			"https://farm6.staticflickr.com/5552/14844318409_9c57b18c31_b.jpg",
+			"https://farm4.staticflickr.com/3863/14844511767_b6b114695b_b.jpg",
+			"https://farm6.staticflickr.com/5573/14844445208_638a57cc61_b.jpg"
+		]
+	},
+	{
+		"id": "109",
+		"category": "2574769",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/31210c87450f515cca9bdc04340ed26ba040ca60",
+		"address": "Av. Sinfrônio Brochado, n: 206 - Barreiro de Baixo",
+		"location": [
+			-19.9757883,
+			-44.0145499
+		],
+		"phone": "33844600"
+	},
+	{
+		"id": "110",
+		"category": "2574783",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3ab69d8e612e42f23169d08760c7b36e40a40202",
+		"address": "R: Alcindo Vieira, n: 422 - Barreiro de Baixo",
+		"location": [
+			-19.9768635,
+			-44.0173032
+		],
+		"phone": "33840883",
+		"photos": [
+			"https://farm6.staticflickr.com/5562/14888819465_e1cfe07b01_b.jpg",
+			"https://farm6.staticflickr.com/5586/14702193177_5f95b16acf_b.jpg",
+			"https://farm4.staticflickr.com/3860/14865739826_0180ddb4a1_b.jpg",
+			"https://farm4.staticflickr.com/3876/14702123328_f013f1ee42_b.jpg",
+			"https://farm4.staticflickr.com/3920/14885673551_c5dcbd06ce_b.jpg",
+			"https://farm4.staticflickr.com/3901/14702053070_965bebfe36_b.jpg",
+			"https://farm4.staticflickr.com/3863/14702122338_84c8633d02_b.jpg",
+			"https://farm4.staticflickr.com/3838/14888386042_43e2ecd3a4_b.jpg",
+			"https://farm4.staticflickr.com/3857/14702123318_b3542ba95d_b.jpg",
+			"https://farm4.staticflickr.com/3882/14702051830_336e002eea_b.jpg"
+		]
+	},
+	{
+		"id": "111",
+		"category": "2574783",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/40ad76bb5aad222e493e40bd3dec842e5265f275",
+		"address": "R: Eridano, n: 409 - Miramar",
+		"location": [
+			-19.9972692,
+			-44.0100033
+		],
+		"phone": "30164115",
+		"email": "veterinaria.santa.cruz@gmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/10387466_1434314640172080_7149432243467643925_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xfa1/t1.0-9/10462501_1434314623505415_5035287314735705801_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xpa1/t1.0-9/1522225_1434314626838748_4954521376697072543_n.jpg"
+		]
+	},
+	{
+		"id": "112",
+		"category": "2574783",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8238fcec867bfe3c8a388f6d21916ae04f5aa715",
+		"address": "Av. Sinfrônio Brochado, n: 1251 - Barreiro de Baixo",
+		"phone": "33848195",
+		"email": "petpointbarreiro@gmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/1900070_1401791580091053_737458746_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/1506000_1401793086757569_1102625807_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-ash4/t1.0-9/1932237_1401797476757130_402788666_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-prn2/t1.0-9/1901917_735778286432950_1078674707_n.jpg"
+		]
+	},
+	{
+		"id": "113",
+		"category": "2574799",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/15189aa21668a11e6cd93fd561a490286efa1984",
+		"address": "Av. Sinfrônio Brochado, n: 80 Lojas 5 e 7 - Barreiro de Baixo",
+		"location": [
+			-19.9755211,
+			-44.0132279
+		],
+		"phone": "33843312"
+	},
+	{
+		"id": "114",
+		"category": "2574799",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/43c50d499de2c28781cecffb562b436adeec8118",
+		"address": "Av. Sinfrônio Brochado, n: 80 Lojas 1 - Barreiro de Baixo",
+		"location": [
+			-19.9755211,
+			-44.0132279
+		],
+		"phone": "33842490"
+	},
+	{
+		"id": "115",
+		"category": "2579327",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7eb64034c4c0f789b1b92bb3572d86888e769726",
+		"address": "Av. Afonso Vaz de Melo, n: 640 loja 287 - Barreiro de Baixo",
+		"location": [
+			-19.9746255,
+			-44.0213156
+		],
+		"phone": "25514299"
+	},
+	{
+		"id": "116",
+		"category": "2579327",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f5714a2d2a864b62e9fa4142352c587df82557d5",
+		"address": "R. Desembargador Ribeiro da Luz, n: 256 - Barreiro de Baixo",
+		"location": [
+			-19.9737472,
+			-44.0164161
+		],
+		"phone": "33842166"
+	},
+	{
+		"id": "117",
+		"category": "2579397",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9267fcdd848b478e5c117602e5460d747660117c",
+		"address": "Av. Afonso Vaz de Melo, n: 1295 - Barreiro de Baixo",
+		"location": [
+			-19.977956,
+			-44.0261851
+		],
+		"phone": "33848296"
+	},
+	{
+		"id": "118",
+		"category": "2579397",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/39a830ae7c214878db8aae567b99e5babf3aabcf",
+		"address": "Av. Olinto Meireles, n: 730 - Barreiro de Baixo",
+		"location": [
+			-19.9775576,
+			-44.0118578
+		],
+		"phone": "25162640"
+	},
+	{
+		"id": "119",
+		"category": "2579397",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/1fd09a079a6fab7ae3ef66c173552218f7d95f75",
+		"address": "Av. Sinfrônio Brochado, n: 120 - Barreiro de Baixo",
+		"location": [
+			-19.9754751,
+			-44.0135924
+		],
+		"phone": "33842928"
+	},
+	{
+		"id": "120",
+		"category": "2583677",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/40c782724085c59d483dab7842d2e45692fa64bf",
+		"address": "R. Desembargador Ribeiro da Luz, n: 258 - Barreiro de Baixo",
+		"location": [
+			-19.9737526,
+			-44.0164454
+		],
+		"phone": "33845255"
+	},
+	{
+		"id": "121",
+		"category": "2583677",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ea537b71549211020d7a3daae8ae0ea6941cefb7",
+		"address": "R. Barão de Coromandel, n: 26 - Barreiro de Baixo",
+		"location": [
+			-19.9743286,
+			-44.0132864
+		],
+		"phone": "25359625"
+	},
+	{
+		"id": "122",
+		"category": "2583763",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d4362f571ac8a70a38db09a7c0409e9f30a466cb",
+		"address": "Av. Sinfrônio Brochado, n: 710 - Barreiro de Baixo",
+		"location": [
+			-19.9766677,
+			-44.0192819
+		],
+		"phone": "33333466"
+	},
+	{
+		"id": "123",
+		"category": "2583773",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/e8a8be185d3b7b7d4bb2790f653c3e335b52f19b",
+		"address": "R: Flávio Marques Lisboa, n: 354 - Barreiro de Baixo",
+		"location": [
+			-19.9752728,
+			-44.0149902
+		],
+		"phone": "35880053",
+		"photos": [
+			"https://farm4.staticflickr.com/3879/15135219430_a8ca08b93a_o.jpg",
+			"https://farm4.staticflickr.com/3902/15135219300_103294bc2f_o.jpg",
+			"https://farm6.staticflickr.com/5555/15321918325_775775c900_o.jpg",
+			"https://farm6.staticflickr.com/5569/15135219690_aa0f9479e1_o.jpg"
+		]
+	},
+	{
+		"id": "124",
+		"category": "2583773",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6e8ee8bb6867db1f7b9dcad6c0f568d6c9d28f15",
+		"address": "Av. Visconde de Ibituruna, n: 288 - Barreiro de Baixo",
+		"location": [
+			-19.9750162,
+			-44.0158967
+		],
+		"phone": "33845210"
+	},
+	{
+		"id": "125",
+		"category": "2583777",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b6f74c32227c1287a4a4e74e8d38a56e4c2f2b94",
+		"address": "R: Barão de Coromandel, n: 221 - Barreiro de Baixo",
+		"location": [
+			-19.9747964,
+			-44.0152292
+		],
+		"phone": "33843211",
+		"email": "realenxovaisltda@gmail.com"
+	},
+	{
+		"id": "126",
+		"category": "2583803",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b1fceab0706c2f8e8f4651b600329e0ce778b66a",
+		"address": "Av. Sinfrônio Brochado, n: 840 Loja 2 - Barreiro de Baixo",
+		"location": [
+			-19.9769602,
+			-44.02056
+		],
+		"phone": "33846752"
+	},
+	{
+		"id": "127",
+		"category": "2583803",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/40f81060716599ae690c987fa9e5391459491566",
+		"address": "R. José Brandão, n: 304 Loja B - Barreiro de Baixo",
+		"location": [
+			-19.9761819,
+			-44.0138315
+		],
+		"phone": "33848427"
+	},
+	{
+		"id": "128",
+		"category": "2583813",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d3a9720e989d070308f5c090ffcd2f790d052d91",
+		"address": "Av. Sinfrônio Brochado, n: 1280 - Barreiro",
+		"location": [
+			-19.9779334,
+			-44.0246476
+		],
+		"phone": "25111111",
+		"email": "sac@eldoradoinstrumentosmusicais.com",
+		"photos": [
+			"https://farm4.staticflickr.com/3869/15175115650_2fc1831484_o.jpg",
+			"https://farm4.staticflickr.com/3924/15358629691_0116b1dde1_b.jpg",
+			"https://farm4.staticflickr.com/3847/15338795816_915feeb972_b.jpg",
+			"https://farm3.staticflickr.com/2950/15175048709_b4b147b2fe_b.jpg",
+			"https://farm3.staticflickr.com/2948/15358629121_3d04e9b260_b.jpg",
+			"https://farm4.staticflickr.com/3869/15175115650_2fc1831484_o.jpg",
+			"https://farm4.staticflickr.com/3850/15175115540_54825ba95c_b.jpg",
+			"https://farm4.staticflickr.com/3887/15175282697_7445cca75c_b.jpg",
+			"https://farm4.staticflickr.com/3915/15358628521_710bf73f18_b.jpg",
+			"https://farm4.staticflickr.com/3921/15175282037_196102b853_o.jpg"
+		]
+	},
+	{
+		"id": "129",
+		"category": "2583825",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/33084ca1bf2cdfd37d83b760ab9ce5515030f9e2",
+		"address": "Av. Manoel Salles Barbosa, n: 174 loja A - Cardoso",
+		"location": [
+			-19.998297,
+			-44.008532
+		],
+		"phone": "33388854",
+		"email": "sandramodas@gmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10487179_1437477556522455_7854010357434024887_n.jpg",
+			"https://scontent-a-iad.xx.fbcdn.net/hphotos-xpa1/t1.0-9/10468643_1437478879855656_718239655855877021_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10426607_1437477656522445_4533279404504122397_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10338759_1437477653189112_4817358685198672093_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10359225_1437477559855788_8687947009796885584_n.jpg"
+		]
+	},
+	{
+		"id": "130",
+		"category": "2583825",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9a5e36b913d583d7b9227dd6c4c28e9c1f943056",
+		"address": "R: Flávio Marques Lisboa, n: 314 - Barreiro de Baixo",
+		"location": [
+			-19.9749551,
+			-44.0150238
+		],
+		"phone": "33848233",
+		"email": "crisbhsantos@gmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/1970592_540585586057394_1415223952_n.jpg",
+			"https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/373944_338129052969716_1798932738_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/482304_358795624236392_170176047_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-frc1/t1.0-9/1940003_538099439639342_2109048613_n.jpg"
+		]
+	},
+	{
+		"id": "131",
+		"category": "2583825",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/bb45a41b7adb9cccdcbef3ac94a4ac44c068a414",
+		"address": "Av. Sinfrônio Brochado, n: 1330 B - Barreiro de Baixo",
+		"location": [
+			-19.978048,
+			-44.024985
+		],
+		"phone": "25524542"
+	},
+	{
+		"id": "132",
+		"category": "2583831",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5872e567da573d18d7331ac6c616d26e5c792052",
+		"address": "Av. Sinfrônio Brochado, n: 1122 - Barreiro de Baixo",
+		"location": [
+			-19.9776358,
+			-44.0232313
+		],
+		"phone": "25156565",
+		"email": "mawai@outlook.com.br",
+		"photos": [
+			"https://farm6.staticflickr.com/5610/15312184258_c8fe219b40_b.jpg"
+		]
+	},
+	{
+		"id": "133",
+		"category": "2583831",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a7b0d01b87b9641208916cfeaf718ef1a0728a4c",
+		"address": "Av. Afonso Vaz Melo, n: 640 - Barreiro de Baixo",
+		"location": [
+			-19.9726648,
+			-44.0164475
+		],
+		"phone": "33848839"
+	},
+	{
+		"id": "134",
+		"category": "2583835",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fb6714fe837f50a3895b7f90143c412bca9195e7",
+		"address": "Av. Sinfrônio Brochado, n: 205 - Barreiro de Baixo",
+		"location": [
+			-19.9758067,
+			-44.014544
+		],
+		"phone": "25511155",
+		"email": "babyenxovais@uol.com.br",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/1619339_1399475753655969_1158821075_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/1240464_1399419423661602_999415596_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/1236196_1399419416994936_1067375721_n.jpg",
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn2/t1/1962766_1399419490328262_1435508185_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/t1/1489191_1399419413661603_150321148_n.jpg"
+		]
+	},
+	{
+		"id": "135",
+		"category": "2583835",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7eaca048ffb4eb083f3d5b0a871b4e3112a76a6b",
+		"address": "R: Alcindo Vieira, n: 422 - Barreiro de Baixo",
+		"location": [
+			-19.918691,
+			-43.959833
+		],
+		"phone": "35826773",
+		"email": "contato@lojakidsteens.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc1/t1/3866_1399457360324475_44379392_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-prn1/t1/1236192_722603947766726_1952631839_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/t1/579037_617755261584929_2077235867_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/t1/67010_721417897885331_1015206279_n.jpg"
+		]
+	},
+	{
+		"id": "136",
+		"category": "2583839",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/31b260db5a3cc35a467993bbd952be60f3e63517",
+		"address": "R: Barão de Coromandel, n:257 - Barreiro de Baixo",
+		"location": [
+			-19.9747418,
+			-44.0152928
+		],
+		"phone": "33812948",
+		"email": "centralroupasltda@gmail.com"
+	},
+	{
+		"id": "137",
+		"category": "2583839",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/445fbee16112b171ee1fb332698e372e4b55c9ac",
+		"address": "Av. Afonso Vaz de Melo, n: 640 - Barreiro de Baixo",
+		"location": [
+			-19.9746255,
+			-44.0213156
+		],
+		"phone": "25511169"
+	},
+	{
+		"id": "138",
+		"category": "2583857",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/afc1b86e8e0361aac5211eceffc661f5689ed3b3",
+		"address": "Av. Visconde Ibituruna, n: 26 - Barreiro de Baixo",
+		"location": [
+			-19.9726648,
+			-44.0164475
+		],
+		"phone": "33843030"
+	},
+	{
+		"id": "139",
+		"category": "2583857",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/79c62d9882e422b32fedb427cfe3ea4520a79f12",
+		"address": "R. Pinheiro Chagas, n: 111 - Barreiro de Baixo",
+		"location": [
+			-19.9779953,
+			-44.0135902
+		],
+		"phone": "33841562"
+	},
+	{
+		"id": "140",
+		"category": "2583861",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/4f33cf8afe5157860ae3210a6a859367d4a04789",
+		"address": "Av. Waldyr Soeiro Enrich, n: 3151 - Diamante",
+		"location": [
+			-19.9890089,
+			-44.01087
+		],
+		"phone": "33813035",
+		"email": "centerpan@hotmail.com"
+	},
+	{
+		"id": "141",
+		"category": "2583861",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/4108e6da2a356ae8fab9259fc221a4d79c0035c0",
+		"address": "R: Barão de Coromandel, n: 150 - Barreiro de Baixo",
+		"location": [
+			-19.9745233,
+			-44.0144299
+		],
+		"phone": "33841070",
+		"email": "danypresenteseud@gmail.com",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-prn1/t1.0-9/10177347_1417297965207081_18086304807480912_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-ash3/t1.0-9/10170933_1417298065207071_1759484473473029267_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-ash3/t1.0-9/10172854_1417297995207078_4891164055867377918_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-ash4/t1.0-9/1384194_1417298008540410_3541465905347578136_n.jpg"
+		]
+	},
+	{
+		"id": "142",
+		"category": "2583861",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/210fe1bda2f1d85194ac7fefcb92b6206b52d099",
+		"address": "R: Flávio Marques Lisboa, n: 354 - Barreiro de Baixo",
+		"location": [
+			-19.9752728,
+			-44.0149902
+		],
+		"phone": "35880053",
+		"photos": [
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc3/l/t1/1376501_540911229313028_837914174_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc3/t1/1374967_539503969453754_306465188_n.jpg",
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-ash4/t1/1240338_539503819453769_39709972_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn1/t1/548466_540911709312980_40930677_n.jpg"
+		]
+	},
+	{
+		"id": "143",
+		"category": "2586009",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0af91f3b20ce8a9c2035c2f2baedf9688327968b",
+		"address": "Av. Sinfrônio Brochado, n: 1577 - Barreiro de Baixo",
+		"location": [
+			-19.9784199,
+			-44.0266486
+		],
+		"phone": "33846363"
+	},
+	{
+		"id": "144",
+		"category": "2586009",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/088ed612e8164b542bd29b96377cedb4add026d2",
+		"address": "Av. Visconde De Ibituruna, n: 298 - Barreiro de Baixo",
+		"location": [
+			-19.9751138,
+			-44.0158729
+		],
+		"phone": "33841115"
+	},
+	{
+		"id": "145",
+		"category": "2586023",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0391fd554f042d42656b8cafcc98419bc93caedb",
+		"address": "Av Visc Ibituruna, 261 - Barreiro de Baixo",
+		"location": [
+			-19.9747881,
+			-44.0159511
+		],
+		"phone": "33830955"
+	},
+	{
+		"id": "146",
+		"category": "2586023",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/aaf735cdbd7bf97bd4adb0113f2f4bc73d1595b2",
+		"address": "Av. Afonso Vaz de Melo, n: 307 - Barreiro de Baixo",
+		"location": [
+			-19.9732448,
+			-44.018258
+		],
+		"phone": "33842454"
+	},
+	{
+		"id": "147",
+		"category": "2587883",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/4ed890c68cbfa3de4ade62277607b16d97da1d70",
+		"address": "R. João Batista de Assis, n: 209 - Tirol",
+		"location": [
+			-19.9900932,
+			-44.0357671
+		],
+		"phone": "33821109"
+	},
+	{
+		"id": "148",
+		"category": "2587883",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/347d7c4be38ea9c553585f1de7c037183f8449ad",
+		"address": "R. dos Cruzeirenses, n: 20 - Milionários",
+		"location": [
+			-19.9814633,
+			-43.9991912
+		],
+		"phone": "33811254"
+	},
+	{
+		"id": "149",
+		"category": "2587889",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6827583393fb8f70ab61d9d0b9b07782e1edb9e8",
+		"address": "Av. Afonso Vaz de Melo, n: 1265 loja 2 - Barreiro de Baixo",
+		"location": [
+			-19.9754088,
+			-44.0165723
+		],
+		"phone": "33847156"
+	},
+	{
+		"id": "150",
+		"category": "2587889",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b187540f7b9682471b674603518248a4b56b9b55",
+		"address": "R. Júlio de Mesquita, n: 191 - Tirol",
+		"location": [
+			-19.9956056,
+			-44.048633
+		],
+		"phone": "33877375"
+	},
+	{
+		"id": "151",
+		"category": "2595267",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/297f7d19ea96604ac6678d4332e53da5c9b422bb",
+		"address": "R: Barão de Coromandel, n: 126 - Barreiro de Baixo",
+		"location": [
+			-19.981937,
+			-43.946113
+		],
+		"email": "pantanalbarreiro@yahoo.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/248795_107854762637666_3399129_n.jpg"
+		]
+	},
+	{
+		"id": "152",
+		"category": "2596485",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7596d6aec01186ac2cf349f29b5eef5244340d82",
+		"address": "R. Barão de Coromandel, n: 180 loja 01 - Barreiro de Baixo",
+		"location": [
+			-19.9746197,
+			-44.0146999
+		],
+		"phone": "33848303"
+	},
+	{
+		"id": "153",
+		"category": "2596485",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7f6499cc17ed9f283da86591d7db4c9e719f3493",
+		"address": "R. Antônio Eustáquio Piazza, n: 2950 - Tirol",
+		"location": [
+			-19.9858774,
+			-44.037199
+		],
+		"phone": "33312343"
+	},
+	{
+		"id": "154",
+		"category": "2596495",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d91fdb3460a43ed19c51669b5339e89f33a3c5d8",
+		"address": "Av. Arquiteto Morandi, n: 15 - Barreiro de Baixo",
+		"location": [
+			-19.9706026,
+			-44.0160994
+		],
+		"phone": "33333466"
+	},
+	{
+		"id": "155",
+		"category": "2596495",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/93e9852cfc5cc30b061f43b6a205b63d30ad5756",
+		"address": "Av. Sinfrônio Brochado, n: 452 - Barreiro de Baixo",
+		"location": [
+			-19.9762813,
+			-44.0168496
+		],
+		"phone": "33842053"
+	},
+	{
+		"id": "156",
+		"category": "2600253",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8a4cd0ba80f468fc0303175a17621ae3b1a17ee1",
+		"address": "Av. Sinfrônio Brochado, n: 533 loja 1 - Barreiro de Baixo",
+		"location": [
+			-19.9964331,
+			-44.0077972
+		],
+		"phone": "33843184"
+	},
+	{
+		"id": "157",
+		"category": "2600253",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ed184081fdbe05eb2d17843a0b4778c65ec484ac",
+		"address": "Av. Visconde de Ibituruna, n: 58 Loja 2 - Barreiro de Baixo",
+		"location": [
+			-19.9728964,
+			-44.0164799
+		],
+		"phone": "33848586"
+	},
+	{
+		"id": "158",
+		"category": "2600279",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0747ab74bb9165a0ec8002934d7bb049f2fb01a5",
+		"address": "Av. Sinfrônio Brochado, n: 1013 - Barreiro de Baixo",
+		"location": [
+			-19.977471,
+			-44.022027
+		],
+		"phone": "33387546",
+		"email": "atendimentomodanoivas@hotmail.com",
+		"photos": [
+			"https://farm4.staticflickr.com/3910/15272934175_b803be05d3_b.jpg",
+			"https://farm6.staticflickr.com/5563/15249935726_dca92ed4c1_b.jpg",
+			"https://farm6.staticflickr.com/5566/15272548922_8627479ea4_b.jpg",
+			"https://farm4.staticflickr.com/3879/15269820381_ea46c12cb4_b.jpg",
+			"https://farm4.staticflickr.com/3913/15249936116_66a1e057e1_b.jpg"
+		]
+	},
+	{
+		"id": "159",
+		"category": "2600279",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ebfce92c9481124f54d40e789b230485a8f4ef69",
+		"address": "Av. Sinfrônio Brochado, n: 800 - Barreiro de Baixo",
+		"location": [
+			-19.976817,
+			-44.020104
+		],
+		"phone": "33845056",
+		"email": "miragemnoivas@hotmail.com",
+		"photos": [
+			"https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/q82/p417x417/10616350_775513562508541_3417118940640530621_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/q85/p417x417/10338712_775470522512845_2199849681263903690_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/p417x417/10440978_775470279179536_5511436915944166425_n.jpg",
+			"https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/q86/p417x417/1610800_775470035846227_3567051429164841517_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10592877_775469919179572_4129414643707527575_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xpa1/t1.0-9/q82/p417x417/1536557_775469882512909_4862964192411372323_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10606551_775469565846274_7193606906988497685_n.jpg",
+			"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10580139_775463805846850_6538194626462876193_n.jpg",
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10402388_775463682513529_1007854454992649000_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xpf1/t1.0-9/p417x417/1604662_775463399180224_3805085064018867779_n.jpg"
+		]
+	},
+	{
+		"id": "160",
+		"category": "2600315",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/c2fec473e9199d35d202369cd08185db13e961b6",
+		"address": "R: Castor, n: 129 - Barreiro de Cima",
+		"location": [
+			-19.9827287,
+			-44.0183095
+		],
+		"phone": "33889229",
+		"email": "contato@minassegue.com.br",
+		"photos": [
+			"https://farm6.staticflickr.com/5607/15546618981_f595db47eb_o.jpg",
+			"https://farm4.staticflickr.com/3954/15546745371_60259146c3_o.jpg",
+			"https://farm4.staticflickr.com/3940/15546619011_5eb2a9b81c_o.jpg"
+		]
+	},
+	{
+		"id": "161",
+		"category": "2600331",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/595bedd762253e249d1d360719011667297a5476",
+		"address": "R: Betula, n: 135 - Bonsucesso",
+		"location": [
+			-19.9877072,
+			-43.9967084
+		],
+		"phone": "33813681",
+		"email": "tradisomacessorios@hotmail.com"
+	},
+	{
+		"id": "162",
+		"category": "2600331",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9be516f09caa99ccc656cc85a9a19f0ec46be691",
+		"address": "Av. Sinfrônio Brochado, n: 1390 - Barreiro de Baixo",
+		"location": [
+			-19.988816,
+			-44.014084
+		],
+		"phone": "33899302",
+		"email": "impactsom1390@hotmail.com"
+	},
+	{
+		"id": "163",
+		"category": "2600331",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a9a70c26030dbaeaf3b70f3fcfa6aa2421c9debe",
+		"address": "Av. Sinfrônio Brochado, n: 1290 - Barreiro de Baixo",
+		"location": [
+			-19.9779761,
+			-44.0248126
+		],
+		"phone": "33842929"
+	},
+	{
+		"id": "164",
+		"category": "2600399",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a6b71318542a8f3539e84218123d0e8424e15255",
+		"address": "R. Honório Hermeto, n: 60 sala 05 - Barreiro de Baixo",
+		"location": [
+			-19.9739874,
+			-44.018821
+		],
+		"phone": "33847501"
+	},
+	{
+		"id": "165",
+		"category": "2600509",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/55146ca457f2e313db20b49cc989485f88f9770a",
+		"address": "R. Flávio Marques Lisboa, n: 364 - Barreiro de Baixo",
+		"location": [
+			-19.9754103,
+			-44.0149021
+		],
+		"phone": "33845044"
+	},
+	{
+		"id": "166",
+		"category": "2600509",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b112f25a7eac62a94df71193b554fe722b0980e1",
+		"address": "Av. Afonso Vaz Melo, 640 - Barreiro de Baixo",
+		"location": [
+			-19.9746255,
+			-44.0213156
+		],
+		"phone": "25111510"
+	},
+	{
+		"id": "167",
+		"category": "2600581",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/087e81a746d43bc8c0068cfb5c82613fdfc7ca3e",
+		"address": "Rua José Brandão, n: 146 - Barreiro de Baixo",
+		"location": [
+			-19.9746666,
+			-44.0141599
+		],
+		"phone": "25513422"
+	},
+	{
+		"id": "168",
+		"category": "2600581",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9a01e66c140709147edae922eb5e103e48f3296b",
+		"address": "Rua José Brandão, n: 211, - Barreiro de Baixo",
+		"location": [
+			-19.9755985,
+			-44.0139606
+		],
+		"phone": "33842074"
+	},
+	{
+		"id": "169",
+		"category": "2614611",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/4ae19eb62f85b144b06db7a1353180f18188354a",
+		"address": "R: Barão de Coromandel, n: 246 Loja A - Barreiro de Baixo",
+		"location": [
+			-19.9746885,
+			-44.0154288
+		],
+		"phone": "33844340",
+		"email": "lemart@oi.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn1/t1.0-9/1013954_472575022828244_1655401776_n.jpg",
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/941815_460655924020154_1304092277_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/1005146_472575006161579_1053049716_n.jpg"
+		]
+	},
+	{
+		"id": "170",
+		"category": "2614611",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/2d5b1c45922d4abe5cca3aab0010b6c3c90a60ac",
+		"address": "Av. Visconde de Ibituruna, n: 335 Sala 07 - Barreiro de Baixo",
+		"location": [
+			-19.9755424,
+			-44.0157665
+		],
+		"phone": "33845644"
+	},
+	{
+		"id": "171",
+		"category": "2614701",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ea9fa2b5a699320139fe63fbada9a3bebd77c775",
+		"address": "Av: Waldir Soeiro Emrich, n: 2921 - Barreiro de Cima",
+		"location": [
+			-19.9881961,
+			-44.0096536
+		],
+		"phone": "33816762"
+	},
+	{
+		"id": "172",
+		"category": "2614701",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ba09d264893ced00755d65bedcff85eb77362727",
+		"address": "R: Hoffman, n: 630 - Barreiro de Cima",
+		"location": [
+			-19.992463,
+			-44.0133297
+		],
+		"phone": "85501355"
+	},
+	{
+		"id": "173",
+		"category": "2614735",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3b844149cfd0ec67ec80c6d8a3f59a2338d0ab8c",
+		"address": "R. Joaquim de Figueiredo, n: 285 - Barreiro de Baixo",
+		"location": [
+			-19.9754088,
+			-44.0165723
+		],
+		"phone": "33843694"
+	},
+	{
+		"id": "174",
+		"category": "2614779",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fea34fb878053c3adebd70d59d42e6936e5277de",
+		"address": "Av. Antônio Eustáquio Piazza, n: 3000 - Tirol",
+		"location": [
+			-19.9862718,
+			-44.0377433
+		],
+		"phone": "33820693",
+		"email": "centralroupasltda@gmail.com"
+	},
+	{
+		"id": "175",
+		"category": "2614779",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/e8d81fbf0f0f394b3a85c9fafab95c310fbb042b",
+		"address": "R. Carlos Pinto Coelho, n: 130 - Vale Jatobá",
+		"location": [
+			-20.0060563,
+			-44.0366412
+		],
+		"phone": "33314002"
+	},
+	{
+		"id": "176",
+		"category": "2617205",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3f3fd9b244576504c5599893e7f50de5c54db68c",
+		"address": "Av. Olinto Meireles, n: 2733 - Barreiro de Cima",
+		"location": [
+			-19.9946586,
+			-44.0064175
+		],
+		"phone": "33841927",
+		"email": "alexandre.imperiodosdragoes@gmail.com",
+		"photos": [
+			"https://farm4.staticflickr.com/3930/15226347937_7b25a34946_b.jpg",
+			"https://farm4.staticflickr.com/3931/15226347387_b06ed5fe6f_b.jpg",
+			"https://farm4.staticflickr.com/3930/15412553332_5bf03b5c2d_b.jpg",
+			"https://farm3.staticflickr.com/2949/15412892895_8210d21feb_b.jpg",
+			"https://farm4.staticflickr.com/3930/15226294298_e07e795cb4_b.jpg",
+			"https://farm3.staticflickr.com/2948/15226137389_cc4df38891_b.jpg",
+			"https://farm4.staticflickr.com/3930/15412893535_853e5dde5d_b.jpg",
+			"https://farm4.staticflickr.com/3930/15412893535_853e5dde5d_b.jpg",
+			"https://farm4.staticflickr.com/3929/15409706761_c7d9a1fce5_b.jpg",
+			"https://farm3.staticflickr.com/2947/15226293978_314cd95795_b.jpg"
+		]
+	},
+	{
+		"id": "177",
+		"category": "2617205",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6f31dc350a0a33771327b341dd6fe935fa29c45d",
+		"address": "Av. Visconde de Ibituruna, n: 165 sala 208 - Barreiro de Baixo",
+		"location": [
+			-19.9739134,
+			-44.0161349
+		],
+		"phone": "33840435",
+		"email": "contatotilu@gmail.com",
+		"photos": [
+			"https://farm4.staticflickr.com/3835/15100455346_7f285a19b8_o.jpg",
+			"https://farm4.staticflickr.com/3870/14936879287_94e656babc_b.jpg",
+			"https://farm4.staticflickr.com/3912/14936745209_8c95c638db_o.jpg",
+			"https://farm4.staticflickr.com/3925/15100455396_2845b61ecc_o.jpg",
+			"https://farm6.staticflickr.com/5574/14936791810_eeb0478270_o.jpg",
+			"https://farm4.staticflickr.com/3918/14936791420_94fe1ce523_o.jpg",
+			"https://farm4.staticflickr.com/3886/15123607405_e956f08ab6_o.jpg",
+			"https://farm4.staticflickr.com/3881/15123234432_77c794df92_b.jpg",
+			"https://farm4.staticflickr.com/3907/15123234242_6482dd97d9_b.jpg",
+			"https://farm4.staticflickr.com/3886/14936745049_a66796de37_o.jpg"
+		]
+	},
+	{
+		"id": "178",
+		"category": "2617385",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/22afe397b1e23445563f4e595c1ca2fbb0f93ed1",
+		"address": "Av. Afonso Vaz de Melo, n: 640 - Barreiro de Baixo",
+		"location": [
+			-19.9746255,
+			-44.0213156
+		],
+		"phone": "33849049"
+	},
+	{
+		"id": "179",
+		"category": "2617385",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/2124ab4787b24c1a25f5f14804af089e963a54bb",
+		"address": "Av. Visconde de Ibituruna, n: 289 - Barreiro de Baixo",
+		"location": [
+			-19.9752077,
+			-44.01585
+		],
+		"phone": "21263200"
+	},
+	{
+		"id": "180",
+		"category": "2617439",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5741ef71dc0641d9affc56d55057eaa2b4c00a82",
+		"address": "R. Antônio Eustáquio Piazza, n: 2950 - Tirol",
+		"location": [
+			-19.9858774,
+			-44.037199
+		],
+		"email": "contato@jlmoveisparaescritorio.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10489707_1438854763051401_6791386694186442260_n.jpg",
+			"https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xap1/t1.0-9/10418190_1439551956315015_1242890526967365401_n.jpg",
+			"https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10492522_1439552099648334_6499366871941397241_n.jpg",
+			"https://scontent-a-mia.xx.fbcdn.net/hphotos-xaf1/t1.0-9/10410799_1439547829648761_8283275336486926287_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-xap1/t1.0-9/10458204_1439552062981671_6081262841641868021_n.jpg"
+		]
+	},
+	{
+		"id": "181",
+		"category": "2617439",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d2134bbe5e41dd1634bbdcfc04a295969f32fc1c",
+		"address": "R: Desembargador Ribeiro da Luz, n: 198 - Barreiro de Baixo",
+		"location": [
+			-19.973614,
+			-44.016193
+		],
+		"email": "dumoveis_morato@oi.com.br",
+		"photos": [
+			"https://farm4.staticflickr.com/3841/14786358620_f5ee2a7271_b.jpg",
+			"https://farm6.staticflickr.com/5575/14973031555_92f84d99f3_b.jpg",
+			"https://farm6.staticflickr.com/5578/14969942991_a2eb23cea1_b.jpg",
+			"https://farm4.staticflickr.com/3926/14969945261_d07cc5dcc9_b.jpg",
+			"https://farm4.staticflickr.com/3894/14786451218_f2619e0a74_b.jpg"
+		]
+	},
+	{
+		"id": "182",
+		"category": "2617439",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/1a29857959d65ba7831734359154cf3703c9f1a1",
+		"address": "R: Flávio Marques Lisboa, n: 125 - Barreiro de Baixo",
+		"location": [
+			-19.9732589,
+			-44.015383
+		],
+		"phone": "25111511",
+		"email": "dumoveis_morato@oi.com.br",
+		"photos": [
+			"https://farm4.staticflickr.com/3910/14786345080_45cc522c41_b.jpg",
+			"https://farm6.staticflickr.com/5555/14786348150_b8fc71e6bd_b.jpg",
+			"https://farm4.staticflickr.com/3850/14786337139_3b00ea3e74_b.jpg",
+			"https://farm6.staticflickr.com/5591/14786353290_378f124e1b_b.jpg",
+			"https://farm4.staticflickr.com/3864/14786341859_b57142a19c_b.jpg"
+		]
+	},
+	{
+		"id": "183",
+		"category": "2617439",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/bf27cfdd14bf0134485c112b70cd12fc29181141",
+		"address": "R: Barão de Coromandel, n: 246 Loja A - Barreiro de Baixo",
+		"location": [
+			-19.9746885,
+			-44.0154288
+		],
+		"phone": "33844340",
+		"email": "lemart@oi.com.br",
+		"photos": [
+			"https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn1/t1.0-9/1013954_472575022828244_1655401776_n.jpg",
+			"https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-ash3/t1.0-9/941815_460655924020154_1304092277_n.jpg",
+			"https://scontent-b-mia.xx.fbcdn.net/hphotos-frc3/t1.0-9/1005146_472575006161579_1053049716_n.jpg"
+		]
+	},
+	{
+		"id": "184",
+		"category": "2617933",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fb03eb19cb7485497944c4fabca8c21832379b64",
+		"address": "Rua Barão de Coromandel, n: 245 - Barreiro de Baixo",
+		"location": [
+			-19.9747513,
+			-44.0153853
+		],
+		"phone": "33899392"
+	},
+	{
+		"id": "185",
+		"category": "2617933",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/121c7c211ea9b61133ddbf89f8f1694eb255ed5f",
+		"address": "R. Barão de Coromandel, n: 455 - Barreiro de Baixo",
+		"location": [
+			-19.9751483,
+			-44.0172736
+		],
+		"phone": "33854929"
+	},
+	{
+		"id": "186",
+		"category": "2618279",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3114a78c9a9d433c818f6ca188fb172cfd99a63f",
+		"address": "Av. Sinfrônio Brochado, n: 376 - Barreiro de Baixo",
+		"location": [
+			-19.9760839,
+			-44.0159973
+		],
+		"phone": "33844586"
+	},
+	{
+		"id": "187",
+		"category": "2618279",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/1b457529bd1aabdbf1e196f40c09bdf5a6b285e3",
+		"address": "Av. Visconde de Ibituruna, n: 252 - Barreiro de Baixo",
+		"location": [
+			-19.9747311,
+			-44.0159641
+		],
+		"phone": "32725008"
+	},
+	{
+		"id": "188",
+		"category": "2629461",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/52754aacfe6db7ad0a468567f7028069d9980fa2",
+		"address": "Av. Afonso Vaz de Melo, n: 1306 - Barreiro de Baixo",
+		"location": [
+			-19.9782107,
+			-44.0264615
+		],
+		"phone": "33814700"
+	},
+	{
+		"id": "189",
+		"category": "2629461",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8419a13b83bbc2a50b5bd78bcb6f454ff4fee6da",
+		"address": "Av. Sinfrônio Brochado, n: 350 - Barreiro de Baixo",
+		"location": [
+			-19.9760237,
+			-44.0157219
+		],
+		"phone": "25512727"
+	},
+	{
+		"id": "190",
+		"category": "2634123",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5edc4b96ae2df33bbf4817a16f3e313f6bc8e3d8",
+		"address": "Av. Visconde de Ibituruna, n: 127 - Barreiro de Baixo",
+		"location": [
+			-19.9735757,
+			-44.0162311
+		],
+		"phone": "33899702"
+	},
+	{
+		"id": "191",
+		"category": "2634123",
+		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8bfbb6a81a3f8b4b87b2850e6a77e09cb75a1221",
+		"address": "Av. Visconde de Ibituruna, n: 127 - Barreiro de Baixo",
+		"location": [
+			-19.9770978,
+			-44.0205735
+		],
+		"phone": "33842200"
+	}
+]
