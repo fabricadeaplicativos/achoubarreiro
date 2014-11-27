@@ -52,13 +52,23 @@ angular.module('achouBarreiro.controllers', ['achouBarreiro.services'])
 }])
 
 .controller('EstablishmentCtrl', ['$scope', '$stateParams', 'Establishments', '$ionicActionSheet', function ($scope, $stateParams, Establishments, $ionicActionSheet) {
-
-	Establishments.get({ id: parseInt($stateParams.establishmentId) })
+	
+	$scope.i = 0;
+	
+	$scope.$on('$viewContentLoaded', function() {
+		$scope.i++;
+		$scope.renderMap();
+	});
+	
+	Establishments.get({ id: $stateParams.establishmentId })
 		.then(function(results){
 			console.log("oi");
 			console.log(results);
 
 			$scope.establishment = results[0];
+			
+			$scope.i++;
+			$scope.renderMap();
 
 		});
 
@@ -75,6 +85,55 @@ angular.module('achouBarreiro.controllers', ['achouBarreiro.services'])
 			}
 		});
 	};
+	
+	$scope.renderMap = function() {
+		
+		if($scope.i < 2)
+			return;
+
+		var latLng = new google.maps.LatLng($scope.establishment.location[0], $scope.establishment.location[1]);
+        
+		var mapOptions = {
+			center: latLng,
+			zoom: 16,
+			mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+        
+		var map = new google.maps.Map(document.getElementById("map"),
+		            mapOptions);
+        
+		var marker = new google.maps.Marker({
+		      position: latLng,
+		      map: map,
+		      title: $scope.establishment.title
+		});
+		
+		navigator.geolocation.getCurrentPosition(function(pos) {
+			
+			var request = {
+			    origin: new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude),
+			    destination: latLng,
+			    waypoints: [],
+			    optimizeWaypoints: true,
+			    travelMode: google.maps.TravelMode.DRIVING
+			};
+			
+			directionsDisplay = new google.maps.DirectionsRenderer();
+			var directionsService = new google.maps.DirectionsService();
+
+			directionsService.route(request, function(response, status) {
+				
+				marker.setVisible(false);
+				// POG
+				response.routes[0].legs[0].end_address = $scope.establishment.title + ' - ' + response.routes[0].legs[0].end_address;
+				directionsDisplay.setMap(map);
+				directionsDisplay.setDirections(response);
+			});
+			
+		}, function(error) {
+			alert('Unable to get location: ' + error.message);
+		});
+	}
 
 }]);
 

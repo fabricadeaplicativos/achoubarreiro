@@ -15,6 +15,7 @@ ITEMS.forEach(function (item, index) {
 		id: '' + index,
 		category: '' + item.moblet_id,
 		image: item.image,
+		title: item.title
 	};
 
 	/////////////

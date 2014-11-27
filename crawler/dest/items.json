@@ -3,6 +3,7 @@
 		"id": "0",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/336590bdaf191606bf9936a7f7f8c7385cf79538",
+		"title": "ANNA CLARA PIZZARIA",
 		"address": "Av. Nélio Cerqueira, n: 588 - Tirol",
 		"location": [
 			-19.9899442,
@@ -17,6 +18,7 @@
 		"id": "1",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9fd15752173e2828d77c06fb93bacf24a5ad8f17",
+		"title": "BÃO D+ DELIVERY",
 		"address": "Av. Sinfrônio Brochado, n: 1140 - Barreiro de Baixo",
 		"location": [
 			-19.9776214,
@@ -35,6 +37,7 @@
 		"id": "2",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0df4dbf126d7a44b799a0bf74b791eb50ca65fb5",
+		"title": "CENTRAL PIZZA",
 		"address": "R: Cruzeiro do Sul, n: 917 - Barreiro de Cima",
 		"location": [
 			-19.9948129,
@@ -53,6 +56,7 @@
 		"id": "3",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5f58526dfd65c8df3dc16fb2a254ee35c95dd9ed",
+		"title": "EDI'S BURGUER",
 		"address": "R: Júlio de Mesquita, n: 262 - Itaipu",
 		"location": [
 			-19.9960066,
@@ -68,6 +72,7 @@
 		"id": "4",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/4cf2c248cec8d2aeb921698ca9359a328d867727",
+		"title": "LANCHONETE DO CLODE",
 		"address": "R: José Faleiro, n: 219 - Santa Helena",
 		"location": [
 			-19.9837549,
@@ -83,6 +88,7 @@
 		"id": "5",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/efa2dc6b82b5291599de120db318c622be191ab3",
+		"title": "MARCIANO LANCHES",
 		"address": "R: Antônio Teixeira Dias, n: 1920 - Teixeira Dias",
 		"location": [
 			-19.9881616,
@@ -102,6 +108,7 @@
 		"id": "6",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d72526a1e7c1f6d68621c2845dac9240daaeed10",
+		"title": "SP PIZZA FORNO À LENHA",
 		"address": "Av. Sinfrônio Brochado, n: 1268 - Barreiro de Baixo",
 		"location": [
 			-19.9770396,
@@ -116,6 +123,7 @@
 		"id": "7",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/52528031eca727c1ac29b651a673a1b87a222209",
+		"title": "A LENA ALIMENTOS CONGELADOS",
 		"address": "R: Alcindo Vieira , n: 588 - Barreiro",
 		"location": [
 			-19.978397,
@@ -132,6 +140,7 @@
 		"id": "8",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d1681a1eb82f4bda00db77d6579cd2b1bac4fcba",
+		"title": "BAGDÁ PETISQUEIRA DELIVERY",
 		"address": "R: Eridano, n: 397 - Barreiro de Cima",
 		"location": [
 			-19.997164,
@@ -147,6 +156,7 @@
 		"id": "9",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7b65a51b572031e486089035b69fe9d071ee2bb8",
+		"title": "BETINHO DO SANDUICHE",
 		"address": "R: Antônio Teixeira Dias, n: 1609 - Teixeira Dias",
 		"location": [
 			-19.985812,
@@ -158,6 +168,7 @@
 		"id": "10",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/44f9c1377bd5ca61fd781b736134c143ba06d231",
+		"title": "BONGA BONGA LANCHES",
 		"address": "Av. Olinto Meireles, n: 2500 - Barreiro de Cima",
 		"location": [
 			-19.9894398,
@@ -177,6 +188,7 @@
 		"id": "11",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/1a363eae42bcac65f8fcfd54a651a7c154ef638f",
+		"title": "BOQUINHA LANCHES",
 		"address": "Av. Sinfrônio Brochado, n: 1110 - Barreiro de Baixo",
 		"location": [
 			-19.977725,
@@ -195,6 +207,7 @@
 		"id": "12",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/e4cc5a91605cadb1a34591c7322715fb34841db8",
+		"title": "CELEIRO DE MINAS DELIVERY",
 		"address": "Av. Sinfrônio Brochado, n: 1210 - Barreiro de Baixo",
 		"phone": "33843899",
 		"email": "deminas@celeirodeminas.com.br",
@@ -208,6 +221,7 @@
 		"id": "13",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0a56c8675a168e407d08233b7ecf4ac749d26c74",
+		"title": "DIMAS LANCHES",
 		"address": "Av. Sinfrônio Brochado, n: 801 - Barreiro de Baixo",
 		"location": [
 			-19.982625,
@@ -220,6 +234,7 @@
 		"id": "14",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/60c0ca299634c079b3e4581fff9e9fac2a19e77a",
+		"title": "GASPARZINHO PIZZARIA",
 		"address": "Av. Djalma Vieira Cristo, n: 631 - Vale do Jatobá",
 		"location": [
 			-20.0107888,
@@ -231,6 +246,7 @@
 		"id": "15",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/bb7789137f24966e05ffff6f64e1325e1c000ae1",
+		"title": "HOT PASTEL",
 		"address": "Av. Visconde de Ibituruna, n: 150 - Barreiro de Baixo",
 		"location": [
 			-19.9738533,
@@ -243,6 +259,7 @@
 		"id": "16",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a2b0d5c0ac077114f0baa48a33f729d9c533240f",
+		"title": "PIZZA DO PEDAÇO",
 		"address": "R: Monte Carmelo, n: 33 - Olaria",
 		"location": [
 			-19.9936344,
@@ -255,6 +272,7 @@
 		"id": "17",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ca229f84b3d48b5845f9384b7b523609bee7128d",
+		"title": "PIZZAIOLO BARREIRO",
 		"address": "Av. Sinfrônio Brochado, n: 600 - Barreiro de Baixo",
 		"location": [
 			-19.9765324,
@@ -266,6 +284,7 @@
 		"id": "18",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5690c842cf48239d929be32d4764fbe5860420a4",
+		"title": "PIZZARIA DO BIGODE",
 		"address": "R: Júlio de Mesquita, n: 288 - Marilândia",
 		"location": [
 			-19.9961263,
@@ -278,6 +297,7 @@
 		"id": "19",
 		"category": "717768",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b5928b26bf2844eb1c49b0e849b62b7b090c73e9",
+		"title": "PIZZARIA E CHURRASCARIA AVENIDA",
 		"address": "R: Olinto Meireles, n: 2380 - Milionários",
 		"location": [
 			-19.9886584,
@@ -294,6 +314,7 @@
 		"id": "20",
 		"category": "717774",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/cc72f6d5dee2149415cffcf568171dd2531298ee",
+		"title": "DROGARIA BARREIRO",
 		"address": "R: Desembargador Ribeiro da Luz, n: 352 - Barreiro de Baixo",
 		"location": [
 			-19.9739098,
@@ -312,6 +333,7 @@
 		"id": "21",
 		"category": "717774",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a5f68061c937a62e613de9e77919b1e82a18829f",
+		"title": "DROGARIA CRUZ",
 		"address": "R: Lupércio Paixão, n: 165 - Tirol",
 		"location": [
 			-19.9928706,
@@ -329,6 +351,7 @@
 		"id": "22",
 		"category": "717774",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9de7e723a290f1eb04573172c9b111aa0e2f2a7d",
+		"title": "DROGARIA SIMÕES",
 		"address": "R: Américo Magalhães , n: 510 - Barreiro",
 		"location": [
 			-19.9795781,
@@ -346,6 +369,7 @@
 		"id": "23",
 		"category": "717782",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a8ccf671e197d818ffb5ac59d117c9867e682685",
+		"title": "KAÇA FESTAS, LOCAÇÃO DE MESAS E CADEIRAS",
 		"address": "Av. Senador Levindo Coelho, n: 936 - Vale do Jatobá",
 		"location": [
 			-20.0007234,
@@ -363,6 +387,7 @@
 		"id": "24",
 		"category": "717782",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/702592393b2eb4d07fe42ab41eabf111ea260d98",
+		"title": "MARLEILÂNDIA FESTAS",
 		"address": "R: Antônio Eustáquio Piazza, n: 2825 - Tirol",
 		"location": [
 			-19.9851233,
@@ -380,6 +405,7 @@
 		"id": "25",
 		"category": "717792",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/2856f0742a3069748f8de9223fba0645f30955de",
+		"title": "A SPA DAS SOBRANCELHAS",
 		"address": "R: Alcindo Vieira, n: 210 - Barreiro de Baixo",
 		"location": [
 			-19.902696,
@@ -397,6 +423,7 @@
 		"id": "26",
 		"category": "717792",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5f0700f530124c31aa3e08075a542a8059608492",
+		"title": "ESTÉTICA EQUILÍBRIO E FORMA",
 		"address": "R: José Adriano Gomes, n: 245 - Teixeira Dias",
 		"location": [
 			-19.9871321,
@@ -416,6 +443,7 @@
 		"id": "27",
 		"category": "717792",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/06b4c2a387fa745df465d79f5bd0708f3518124d",
+		"title": "A BELLA ESTÉTICA",
 		"address": "R: Cid Franco, n: 128 - Texeira Dias",
 		"location": [
 			-19.986948,
@@ -428,6 +456,7 @@
 		"id": "28",
 		"category": "717792",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7fca81e6a35c0f74bb682f14780a858f47b2ccdc",
+		"title": "BAOZ HAIR SALÃO",
 		"address": "R: Ângelo Macedo, n: 445 - Barreiro de Baixo",
 		"location": [
 			-19.995793,
@@ -445,6 +474,7 @@
 		"id": "29",
 		"category": "717792",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0aee73a6b02a96714deacc0b76bbf1bbe822458f",
+		"title": "BELEZA RARA STÚDIO HAIR SALÃO",
 		"address": "R: Cruzeiro do Sul, n: 1165 - Barreiro de Cima",
 		"location": [
 			-19.987041,
@@ -460,6 +490,7 @@
 		"id": "30",
 		"category": "717792",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/1007ad919436dcd527d821189a1c201233e73c6a",
+		"title": "GABI GLAMOUR CENTRO DE BELEZA",
 		"address": "R: Aladim Corrêa de Faria , n: 230 B - Diamante",
 		"location": [
 			-19.992087,
@@ -472,6 +503,7 @@
 		"id": "31",
 		"category": "717792",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/c5fe8dc222ef65c28f8697f26a264720b698196a",
+		"title": "LOOK SALÃO DE BELEZA",
 		"address": "Av. Visconde de Ibituruna, n: 335 sala 6 - Barreiro de Baixo",
 		"location": [
 			-19.9736761,
@@ -491,6 +523,7 @@
 		"id": "32",
 		"category": "717792",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b529fb91b9322045b574576e5c1418f793857353",
+		"title": "SEMPRE BEM, BELEZA E BEM ESTAR",
 		"address": "R: Barão de Coromandel, n: 521 - Barreiro de Baixo",
 		"location": [
 			-20.0017652,
@@ -508,6 +541,7 @@
 		"id": "33",
 		"category": "717798",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f9602bc2db16487e538862bf11ec414b36bfad17",
+		"title": "BATERIAS DETROIT",
 		"address": "Av. Senador Levindo Coelho, n: 117 loja A - Tirol",
 		"location": [
 			-19.9886768,
@@ -525,6 +559,7 @@
 		"id": "34",
 		"category": "717798",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f6f869cc499773cc31e781358b35c10071f975e0",
+		"title": "GHIA CAR AUTO PEÇAS",
 		"address": "R: Agnelo Macedo, n: 277 - Barreiro de Baixo",
 		"location": [
 			-19.9763408,
@@ -542,6 +577,7 @@
 		"id": "35",
 		"category": "717798",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0cb1511435d5db68b11b413add8c1eedacb1cb1a",
+		"title": "RS PEÇAS USADAS",
 		"address": "R: Antônio Eustáquio Piazza, n: 3220 - Tirol",
 		"location": [
 			-19.9870067,
@@ -559,6 +595,7 @@
 		"id": "36",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/49552fc6b0010ef608c2381a75aaab6424eddf55",
+		"title": "CLICHÉ! CURSOS DE IDIOMAS",
 		"address": "R: Marcelo Bernucci Sydney, n: 17 - Barreiro",
 		"location": [
 			-19.9762731,
@@ -574,6 +611,7 @@
 		"id": "37",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/19bb9105aeb18dc9867cb19c1670d822b86a6a20",
+		"title": "ENGLISH WAY LANGUAGE COURSES",
 		"address": "R: Desembargador Ribeiro da Luz, n: 462 - Barreiro de Baixo",
 		"location": [
 			-19.9741124,
@@ -586,6 +624,7 @@
 		"id": "38",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f8516987904abbd674b93f2b97c018310971685c",
+		"title": "INSTITUTO PÉS NO CHÃO",
 		"address": "R: Antônio Teixeira Dias, n: 2282 - Teixeira Dias",
 		"location": [
 			-19.9914562,
@@ -603,6 +642,7 @@
 		"id": "39",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6579893d695293eecd5c35f718e510f9d36fc775",
+		"title": "NUMBER ONE",
 		"address": "R: Flávio Marques Lisboa, n: 242 - Barreiro de Baixo",
 		"location": [
 			-19.9742413,
@@ -622,6 +662,7 @@
 		"id": "40",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8187bc058dab115e5accb0acf6d8013fd9171987",
+		"title": "AUTO E MOTO ESCOLA ÁGUIA",
 		"address": "R: Senador Levindo Coelho, n: 316 - Tirol",
 		"location": [
 			-19.9895581,
@@ -640,6 +681,7 @@
 		"id": "41",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/108df3a5ee1346eb0ac865ac98a1985bff12c57a",
+		"title": "AUTO ESCOLA SUPER POSITIVA",
 		"address": "R: Eridano, n: 15 - Cardoso",
 		"location": [
 			-19.9959453,
@@ -655,6 +697,7 @@
 		"id": "42",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7046201b24d5e0c92be67a4278062ff0bcd9a102",
+		"title": "AUTO ESCOLA TOLEDO",
 		"address": "Av. Senador Levindo Coelho, n: 3332 - Magueiras",
 		"location": [
 			-20.0120509,
@@ -667,6 +710,7 @@
 		"id": "43",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/aafe0f6b28b482b8581a135dd90977bb28d48b48",
+		"title": "CCAA BARREIRO",
 		"address": "R: Desembargador Ribeiro Luz, n: 132 - Barreiro de Baixo",
 		"phone": "33844966",
 		"email": "barreiro.corp@ccaa.com.br"
@@ -675,6 +719,7 @@
 		"id": "44",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a19dec79f3875fbb123171fa94f4f3a616da390d",
+		"title": "iENGLiSH",
 		"address": "R: Sabrina Ferreira de Oliveiras, n: 184 - Barreiro de Cima",
 		"location": [
 			-19.975547,
@@ -687,6 +732,7 @@
 		"id": "45",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8b55ecc98b1e26a4757f9d12c6e1a2e47a700fc0",
+		"title": "INSTITUTO ELIZABETH TEIXEIRA DIAS",
 		"address": "R. Sirius, n: 60 - Barreiro de Cima",
 		"location": [
 			-19.902696,
@@ -704,6 +750,7 @@
 		"id": "46",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fb209b249261dc501731247f7f88961a0ac992e7",
+		"title": "PRÉ ABSOLUTO CURSOS PREPARATÓRIOS",
 		"address": "Av. Sinfrônio Brochado, n: 939 - Barreiro de Baixo",
 		"location": [
 			-20.02646,
@@ -716,6 +763,7 @@
 		"id": "47",
 		"category": "717818",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b832fd27ec9803bc86625403ef60264c391ce72c",
+		"title": "TOQUE NATURAL",
 		"address": "Av. Visconde de Ibituruna, n: 19 - Barreiro de Baixo",
 		"location": [
 			-19.9726209,
@@ -732,6 +780,7 @@
 		"id": "48",
 		"category": "717822",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5ee416600d7151d60d7a79ef1fe700bd85ea65b9",
+		"title": "DRS INFORMÁTICA",
 		"address": "R: Castor, n: 129 - Barreiro de Cima",
 		"location": [
 			-19.995039,
@@ -747,6 +796,7 @@
 		"id": "49",
 		"category": "717822",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fe3684f7b9457629773d44a4de0173987ebde8eb",
+		"title": "ASSISTECH INFORMÁTICA",
 		"address": "R: Joaquim de Figueiredo, n: 235 C - Barreiro de Baixo",
 		"location": [
 			-19.918691,
@@ -759,6 +809,7 @@
 		"id": "50",
 		"category": "717822",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/301e59bfc8c2c742328cbdab2c03d4713f345fe6",
+		"title": "INFOR TECH",
 		"address": "R: Flávio Marques Lisboa, n: 381 - Barreiro de Baixo",
 		"location": [
 			-19.918691,
@@ -771,6 +822,7 @@
 		"id": "51",
 		"category": "717822",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/bfa8747868d7a97d964649f56abefe16a586a473",
+		"title": "VHD CELULAR E INFORMÁTICA",
 		"address": "R: Aladim Corrêa de Faria, n:  206 - Santa Cruz",
 		"location": [
 			-19.9938837,
@@ -789,6 +841,7 @@
 		"id": "52",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f8918d52893ca5eab13f053f33d759516e0fd5f7",
+		"title": "ANNA CLARA GOURMET",
 		"address": "Av. Nélio Cerqueira, n: 588 - Tirol",
 		"location": [
 			-19.9899442,
@@ -803,6 +856,7 @@
 		"id": "53",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a92cb51e64c821d1f8c9def248b8cda3cb7972c9",
+		"title": "ESPAÇO VIANA BAR E DIVERSÃO",
 		"address": "R: Três Marias, n: 309 - Miramar",
 		"location": [
 			-19.9949381,
@@ -822,6 +876,7 @@
 		"id": "54",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d2e0fa2ec1c211dc88a0a0ba05a99556ca712311",
+		"title": "FRANGO DO ZOI",
 		"address": "R: Caetano de Vasconcelos, n: 259 - Tirol",
 		"location": [
 			-19.9868048,
@@ -833,6 +888,7 @@
 		"id": "55",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/64e0aecf3bd560fb04900186f581935f971f6178",
+		"title": "NO CLUBINHO",
 		"address": "R: Cruzeiro do Sul, n: 1088 - Bairro Miramar - Barreiro de Cima",
 		"location": [
 			-19.9963116,
@@ -845,6 +901,7 @@
 		"id": "56",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6da67b9a0c16dd4b12b1451aef6330898eb048e8",
+		"title": "PRECIOSO GOURMET RESTAURANTE",
 		"address": "Av. Sinfrônio Brochado, n:1019 - Barreiro de Baixo",
 		"location": [
 			-19.9775275,
@@ -869,6 +926,7 @@
 		"id": "57",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d28ec61040131807e97b146d2d11946b4482fdcc",
+		"title": "QUADRA E ESPETINHO SIDOCA",
 		"address": "R: Nelson Cleiton Linon, n: 255 - Santa Helena",
 		"location": [
 			-19.9843671,
@@ -888,6 +946,7 @@
 		"id": "58",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5fa6fc9049fd76c890cb226cd80efe2535e666eb",
+		"title": "A CIDA'S BUFFET",
 		"address": "Av. Djalma Vieira Cristo, n: 755 - Vale do Jatobá",
 		"location": [
 			-20.0099109,
@@ -903,6 +962,7 @@
 		"id": "59",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/678bad548df37aa9a860a7cac7742ef8d2962dad",
+		"title": "ALCIDES BAR E RESTAURANTE",
 		"address": "R: dos Atleticanos, n: 1098 - Milionários",
 		"location": [
 			-19.9804608,
@@ -921,6 +981,7 @@
 		"id": "60",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6bdd530f816b84709c24fbdd04ec593c352e1706",
+		"title": "BAR CAPIM GUINÉ",
 		"address": "R: Guia Lobo, n: 100 - Barreiro de Cima",
 		"location": [
 			-19.9890162,
@@ -936,6 +997,7 @@
 		"id": "61",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3de2dc4425b8c1a177533fa570d8892b1b19fac7",
+		"title": "BAR DO LU PEIXES",
 		"address": "Av. Sinfrônio Brochado, n: 868 - Barreiro de Baixo",
 		"location": [
 			-19.9771104,
@@ -948,6 +1010,7 @@
 		"id": "62",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/34912c8c164f1d14c616c3cd58b76413c8bdb412",
+		"title": "BAR DO LU",
 		"address": "Av. Afonso Vaz de Melo, n: 1305 - Barreiro de Baixo",
 		"location": [
 			-19.9784814,
@@ -960,6 +1023,7 @@
 		"id": "63",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b4359e81277a5cbbaf187fa48b454a7534ebe6b6",
+		"title": "BAR DO REI",
 		"address": "R: Aladim Corrêa de Faria, n: 985 - Barreiro de Cima",
 		"phone": "33810125",
 		"email": "contato@bardorei.com.br",
@@ -972,6 +1036,7 @@
 		"id": "64",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/12981c15565913ed5114fa4087e582977cc93b67",
+		"title": "BATATA LOU-K",
 		"address": "Av. Sinfrônio Brochado, n: 1457 loja 01 - Barreiro de Baixo",
 		"location": [
 			-19.902696,
@@ -984,6 +1049,7 @@
 		"id": "65",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9b85d57dc0bc674ca40e6d26b7afb5f929ddcfa6",
+		"title": "BAR E RESTAURANTE BELÔ CAFÊ",
 		"address": "R: Flávio Marques Lisboa, n: 125 B - Barreiro de Baixo",
 		"location": [
 			-19.9732331,
@@ -1003,6 +1069,7 @@
 		"id": "66",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d092263f0bb697384b410237e1f83f8a04a48aa8",
+		"title": "CASTELOS BAR",
 		"address": "R: Antonio Teixeira Dias, n: 1980 - Teixeira Dias",
 		"location": [
 			-19.9883828,
@@ -1018,6 +1085,7 @@
 		"id": "67",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ef3d30e80e91a7737bf5ca7a178eb80bc332218c",
+		"title": "CELSINHO RESTAURANTE",
 		"address": "Av. Álvaro da Silveira, n: 10 - Barreiro",
 		"location": [
 			-19.9715964,
@@ -1032,6 +1100,7 @@
 		"id": "68",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/20c690c0c32172f1a342b72ab199ba54def1f08d",
+		"title": "CHICO TIROL",
 		"address": "Av. Nélio Cerqueira, n: 1162 - Barreiro de Baixo",
 		"phone": "33824307",
 		"email": "chico.tirol@yahoo.com.br"
@@ -1040,6 +1109,7 @@
 		"id": "69",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/c657f9a0918ed268f2517c30a477a34249ceaf0a",
+		"title": "CHXICO DO CHURRASCO",
 		"address": "Av. Sinfrônio Brochado, n: 875 - Barreiro de Baixo",
 		"location": [
 			-19.97714,
@@ -1051,6 +1121,7 @@
 		"id": "70",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/24eabe1cbcde0a7ee64e7f3110577d705ca8b7e4",
+		"title": "DESESPETADOS BAR E DIVERSÃO",
 		"address": "Av. Sinfrônio Brochado, n: 1457 - Barreiro de Baixo",
 		"location": [
 			-19.981355,
@@ -1067,6 +1138,7 @@
 		"id": "71",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fde71902f6a7b9aee5a1acd32436823bc73a2771",
+		"title": "ESBETOS ESPETERIA",
 		"address": "Av. Sinfrônio Brochado, n: 1257 - Barreiro de Baixo",
 		"location": [
 			-19.918691,
@@ -1083,6 +1155,7 @@
 		"id": "72",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3e868a94160d6ef414a340627ee2f756d494aadb",
+		"title": "JAJÁ PÕE A MESA",
 		"address": "R: José Brandão, n: 83 - Barreiro",
 		"location": [
 			-19.9740337,
@@ -1095,6 +1168,7 @@
 		"id": "73",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/e8c5d392e01b4797b7278a56b47dc7a96661bd1b",
+		"title": "MANJARES BH",
 		"address": "R. Honório Hermeto, n: 63 - Barreiro de Baixo",
 		"location": [
 			-19.9740191,
@@ -1109,6 +1183,7 @@
 		"id": "74",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/329cb7ca4d7e9863b4c9ccb40e1a51085608b813",
+		"title": "OISHI CULINÁRIA ORIENTAL",
 		"address": "R. Caetano Pirri, n: 246 - Milionários",
 		"location": [
 			-19.9843754,
@@ -1126,6 +1201,7 @@
 		"id": "75",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/2ae6bf6d5ea193313bcb2282969d31b763d16399",
+		"title": "PROSA MINEIRA BAR E RESTAURANTE",
 		"address": "Av. Américo Magalhães, n: 617 - Barreiro de Baixo",
 		"phone": "25165911",
 		"email": "mariana@restauranteprosamineira.com.br",
@@ -1139,6 +1215,7 @@
 		"id": "76",
 		"category": "717926",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d5b4cb1389080d920ca5a10c656de71adfb70852",
+		"title": "SPAGHETTI E GRILL RESTAURANTE",
 		"address": "Av. Sinfrônio Brochado, n: 1006 loja 2 - Barreiro de Baixo",
 		"location": [
 			-19.980205,
@@ -1156,6 +1233,7 @@
 		"id": "77",
 		"category": "844286",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/81f41403480cf70a7def8f96fead7253e43d0759",
+		"title": "ALVES DUARTE ADVOGADOS ASSOCIADOS",
 		"address": "R: José Gonçalves, n: 860, apto 301 - Barreiro de Baixo",
 		"location": [
 			-19.9751719,
@@ -1172,6 +1250,7 @@
 		"id": "78",
 		"category": "844286",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/11bda587707d564df015581b8adcbe82c050bf6c",
+		"title": "AXÍA CONTABILIDADE",
 		"address": "Av. Waldyr Soeiro Emrich, n: 3161 - Barreiro",
 		"location": [
 			-19.9892138,
@@ -1184,6 +1263,7 @@
 		"id": "79",
 		"category": "844286",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9a891c20f2696b10d3f49ec0a0c85198b7c3fa94",
+		"title": "EDIMAR REIS ADVOGADOS",
 		"address": "R: Alcindo Vieira,  n: 425 - Barreiro de Baixo",
 		"location": [
 			-19.972139,
@@ -1196,6 +1276,7 @@
 		"id": "80",
 		"category": "844286",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/717b4aba49801d1605a5370810329830a30bdb89",
+		"title": "GUERRA & MENDES ADVOCACIA",
 		"address": "Av. Sinfrônio Brochado, n: 838 - Barreiro de Baixo",
 		"location": [
 			-19.902696,
@@ -1208,6 +1289,7 @@
 		"id": "81",
 		"category": "844294",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/64f577b2e20a252c1373c3fe2fa9d162caf622b6",
+		"title": "ACHOU APP",
 		"address": "R: da Paisagem, n: 220 - 1 andar - Vila da Serra-Nova Lima",
 		"location": [
 			-19.981937,
@@ -1225,6 +1307,7 @@
 		"id": "82",
 		"category": "844294",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/01fe770e0a3d62a41b059abfc86f42a7f911d954",
+		"title": "ACADEMIA ALTA VIDA",
 		"address": "Av. Senador Levindo Coelho, n: 3371 - Mangueiras",
 		"location": [
 			-20.0120923,
@@ -1244,6 +1327,7 @@
 		"id": "83",
 		"category": "844294",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/892801721a0982c52fdf2e267e3f6e44ce9fea8d",
+		"title": "ACADEMIA MERGULHO",
 		"address": "R: Caetano Pirri, n: 222 - Milionários",
 		"location": [
 			-19.984597,
@@ -1266,6 +1350,7 @@
 		"id": "84",
 		"category": "844294",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f6cd252ce69bb126a98200b79569c0a8396233d1",
+		"title": "* ACADEMIA SENSUS",
 		"address": "Av. Sinfrônio Brochado, n: 176 - Barreiro de Baixo",
 		"location": [
 			-19.9757226,
@@ -1290,6 +1375,7 @@
 		"id": "85",
 		"category": "844294",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/18d4bb9c57216e3c3650bf5b0290a803164f1177",
+		"title": "ACADEMIA ALTERNATIVA",
 		"address": "R: Oliveira Lisboa, n: 40 - Barreiro de Baixo",
 		"location": [
 			-19.983432,
@@ -1307,6 +1393,7 @@
 		"id": "86",
 		"category": "844294",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/59120f463e9d3bad32a904e58f67caa19a3525bf",
+		"title": "ACADEMIA BODY TRAINING",
 		"address": "R: Antônio Teixeira Dias, n: 1609 loja 3 - Teixeira Dias",
 		"location": [
 			-19.985872,
@@ -1323,6 +1410,7 @@
 		"id": "87",
 		"category": "844294",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d8d4c7a5fdef93e66f58f920a1c76ff3410da679",
+		"title": "ACADEMIA FREE LIFE",
 		"address": "R: Julio Mesquita, n: 53 - Tirol",
 		"location": [
 			-19.9951302,
@@ -1341,6 +1429,7 @@
 		"id": "88",
 		"category": "844294",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6154dca386fc95b6bf0c54ad37dd1b431b06cdcf",
+		"title": "ACADEMIA SPORT SEVEN",
 		"address": "R: Caetano Pirri, n: 262 - Milionários",
 		"location": [
 			-19.9839556,
@@ -1353,6 +1442,7 @@
 		"id": "89",
 		"category": "844294",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a6963c52f0d763cb791b7e9fbf77815bc50b9848",
+		"title": "ACADEMIA VITAL CORE",
 		"address": "R: Cruzeiro do Sul, n: 1075 - Barreiro de Cima",
 		"location": [
 			-19.9962252,
@@ -1369,6 +1459,7 @@
 		"id": "90",
 		"category": "844294",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f42e1fd9b09fe960aa53ed20afdf2812d7be7c91",
+		"title": "RENATO SUPLEMENTOS",
 		"address": "R: Flávio Marques Lisboa, n: 314 - Barreiro de Baixo",
 		"location": [
 			-19.9749551,
@@ -1380,6 +1471,7 @@
 		"id": "91",
 		"category": "844302",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b2f0498ff7dfed479e1e3b829512abde228807f1",
+		"title": "SAGRADO GÁS",
 		"address": "R: Nélio Cerqueira, n: 770 - Tirol",
 		"location": [
 			-19.9915667,
@@ -1396,6 +1488,7 @@
 		"id": "92",
 		"category": "844302",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d30e4a2bfd62536aefafa52a7acc69db8fc761b6",
+		"title": "BALU GÁS E ÁGUA",
 		"address": "R: Cruzeiro do Sul, n: 63 - Barreiro",
 		"location": [
 			-19.9664451,
@@ -1408,6 +1501,7 @@
 		"id": "93",
 		"category": "844302",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5f236ed748a1acdfc3a801c33d5ee80c1c146b93",
+		"title": "CHAMA GÁS BARREIRO",
 		"address": "R: Joaquim de Figueiredo, n: 1480 - Barreiro",
 		"location": [
 			-19.972078,
@@ -1425,6 +1519,7 @@
 		"id": "94",
 		"category": "844302",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b88c3e847c68dc0a4c8d59e88680e839103a1001",
+		"title": "CHAMA QUE VEM!",
 		"address": "R: Carlos Chagas, 421 - Jardim Industrial",
 		"location": [
 			-19.9768632,
@@ -1437,6 +1532,7 @@
 		"id": "95",
 		"category": "844302",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b08d167755cf4da0b8eff86b66f56d61dc365227",
+		"title": "ESKINÃO DAS VERDURAS",
 		"address": "Av. Perimetral, n: 350 - Vila Pinho",
 		"location": [
 			-19.9977162,
@@ -1452,6 +1548,7 @@
 		"id": "96",
 		"category": "844302",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/bcd4b4724f38483764c4b4c6481ef9dfbec7e0cb",
+		"title": "GASPRESS GÁS",
 		"address": "R: Francisco Duarte Mendonça, n: 819 - Barreiro",
 		"location": [
 			-19.977624,
@@ -1464,6 +1561,7 @@
 		"id": "97",
 		"category": "844304",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/c741b6c7a4ca0aa5ebd258ea54b346f52633bca4",
+		"title": "ARMANDO CLIMA",
 		"address": "R: Córrego da Mata, n: 149 - Santa Cecília",
 		"location": [
 			-20.0031357,
@@ -1483,6 +1581,7 @@
 		"id": "98",
 		"category": "844304",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5f76b31550b51f01269769edb34b3573c58cc24e",
+		"title": "LOCFORTE LOCAÇÃO DE EQUIPAMENTO",
 		"address": "Av. Waldyr Soeiro Emrich, 3341 - Via do Minério",
 		"location": [
 			-19.9899913,
@@ -1501,6 +1600,7 @@
 		"id": "99",
 		"category": "844304",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b6b7bc536942f2eecbe4341bd38e2b2409a0522a",
+		"title": "DITÃO COMERCIAL LTDA",
 		"address": "Av. Sinfrônio Brochado, n: 939 - Barreiro de Baixo",
 		"location": [
 			-19.9770396,
@@ -1519,6 +1619,7 @@
 		"id": "100",
 		"category": "844304",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/602dcfd41412a1ebaca8f7f5556719467239bbf4",
+		"title": "ELETROHIDRÁULICA SÃO JUDAS TADEU",
 		"address": "R: Djalma Vieira Cristo, n: 1445 - Vale do Jatobá",
 		"location": [
 			-20.0064874,
@@ -1536,6 +1637,7 @@
 		"id": "101",
 		"category": "844304",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/167b8f88cf37750ad427b6afb2829113aa9f14ce",
+		"title": "ELETROLUZES E ACABAMENTOS LTDA",
 		"address": "Av. Sinfrônio Brochado, n: 903 - Barreiro de Baixo",
 		"location": [
 			-19.9771589,
@@ -1555,6 +1657,7 @@
 		"id": "102",
 		"category": "844312",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/e3d30744e895c59cfffa001d8065533e70c053e1",
+		"title": "ÓPTICA CENTRAL DO BARREIRO",
 		"address": "R: Desembargador Ribeiro da Luz, n: 295 - Barreiro",
 		"location": [
 			-19.9738463,
@@ -1572,6 +1675,7 @@
 		"id": "103",
 		"category": "844312",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/2641973eeeb6464bf414bde7be8b56c61147f2da",
+		"title": "ÓTICA BELLA VISÃO",
 		"address": "R: Barão de Coromandel, n: 379 - Barreiro",
 		"location": [
 			-19.9750998,
@@ -1584,6 +1688,7 @@
 		"id": "104",
 		"category": "2574625",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/98b2438577f6b2e33a946e522d34f312a4270196",
+		"title": "AÇAÍ BOM D+",
 		"address": "Av. Afonso Vaz de Melo, n: 1.275 - Barreiro de Baixo",
 		"location": [
 			-19.977858,
@@ -1603,6 +1708,7 @@
 		"id": "105",
 		"category": "2574625",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5f58ade643562d08003aa7d8889c60150143f138",
+		"title": "AÇAÍ NET",
 		"address": "R: Aladim Corrêa de Faria, n: 328 B - Barreiro de Cima",
 		"phone": "35869856",
 		"email": "nineacris@hotmail.com",
@@ -1614,6 +1720,7 @@
 		"id": "106",
 		"category": "2574625",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/73167588b1a8760577d6ac09b19637578d7e329e",
+		"title": "AÇAÍ TCHÊ",
 		"address": "R: Antônio Teixeira Dias, n: 1738, loja 1 - Teixeira Dias",
 		"location": [
 			-19.986477,
@@ -1633,6 +1740,7 @@
 		"id": "107",
 		"category": "2574625",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7a1649443ed442985e8cdd6d63839a2f913ab07d",
+		"title": "REDE AÇAÍ BARREIRO",
 		"address": "Av. Sinfrônio Brochado, n: 1243 - Barreiro de Baixo",
 		"location": [
 			-19.901699,
@@ -1651,6 +1759,7 @@
 		"id": "108",
 		"category": "2574769",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0f7eb45f694cce99e7756c7d58ee736365c45729",
+		"title": "LAGUS COPIADORA",
 		"address": "R: Joaquim Figueiredo, n: 308 - Barreiro de Baixo",
 		"location": [
 			-19.9755996,
@@ -1674,6 +1783,7 @@
 		"id": "109",
 		"category": "2574769",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/31210c87450f515cca9bdc04340ed26ba040ca60",
+		"title": "MILCOPY PAPELARIA",
 		"address": "Av. Sinfrônio Brochado, n: 206 - Barreiro de Baixo",
 		"location": [
 			-19.9757883,
@@ -1685,6 +1795,7 @@
 		"id": "110",
 		"category": "2574783",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3ab69d8e612e42f23169d08760c7b36e40a40202",
+		"title": "PET SHOP CÃO GATO E CIA",
 		"address": "R: Alcindo Vieira, n: 422 - Barreiro de Baixo",
 		"location": [
 			-19.9768635,
@@ -1708,6 +1819,7 @@
 		"id": "111",
 		"category": "2574783",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/40ad76bb5aad222e493e40bd3dec842e5265f275",
+		"title": "VETERINARIA SANTA CRUZ",
 		"address": "R: Eridano, n: 409 - Miramar",
 		"location": [
 			-19.9972692,
@@ -1725,6 +1837,7 @@
 		"id": "112",
 		"category": "2574783",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8238fcec867bfe3c8a388f6d21916ae04f5aa715",
+		"title": "PET POINT BARREIRO",
 		"address": "Av. Sinfrônio Brochado, n: 1251 - Barreiro de Baixo",
 		"phone": "33848195",
 		"email": "petpointbarreiro@gmail.com",
@@ -1739,6 +1852,7 @@
 		"id": "113",
 		"category": "2574799",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/15189aa21668a11e6cd93fd561a490286efa1984",
+		"title": "GRAÇA TUR",
 		"address": "Av. Sinfrônio Brochado, n: 80 Lojas 5 e 7 - Barreiro de Baixo",
 		"location": [
 			-19.9755211,
@@ -1750,6 +1864,7 @@
 		"id": "114",
 		"category": "2574799",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/43c50d499de2c28781cecffb562b436adeec8118",
+		"title": "IBR TURISMO",
 		"address": "Av. Sinfrônio Brochado, n: 80 Lojas 1 - Barreiro de Baixo",
 		"location": [
 			-19.9755211,
@@ -1761,6 +1876,7 @@
 		"id": "115",
 		"category": "2579327",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7eb64034c4c0f789b1b92bb3572d86888e769726",
+		"title": "JOIA RARA BRASIL",
 		"address": "Av. Afonso Vaz de Melo, n: 640 loja 287 - Barreiro de Baixo",
 		"location": [
 			-19.9746255,
@@ -1772,6 +1888,7 @@
 		"id": "116",
 		"category": "2579327",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/f5714a2d2a864b62e9fa4142352c587df82557d5",
+		"title": "RELOJOARIA TOKYO",
 		"address": "R. Desembargador Ribeiro da Luz, n: 256 - Barreiro de Baixo",
 		"location": [
 			-19.9737472,
@@ -1783,6 +1900,7 @@
 		"id": "117",
 		"category": "2579397",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9267fcdd848b478e5c117602e5460d747660117c",
+		"title": "BS CAR PNEUS",
 		"address": "Av. Afonso Vaz de Melo, n: 1295 - Barreiro de Baixo",
 		"location": [
 			-19.977956,
@@ -1794,6 +1912,7 @@
 		"id": "118",
 		"category": "2579397",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/39a830ae7c214878db8aae567b99e5babf3aabcf",
+		"title": "DIRETA VEÍCULOS",
 		"address": "Av. Olinto Meireles, n: 730 - Barreiro de Baixo",
 		"location": [
 			-19.9775576,
@@ -1805,6 +1924,7 @@
 		"id": "119",
 		"category": "2579397",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/1fd09a079a6fab7ae3ef66c173552218f7d95f75",
+		"title": "RICAR VEÍCULOS",
 		"address": "Av. Sinfrônio Brochado, n: 120 - Barreiro de Baixo",
 		"location": [
 			-19.9754751,
@@ -1816,6 +1936,7 @@
 		"id": "120",
 		"category": "2583677",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/40c782724085c59d483dab7842d2e45692fa64bf",
+		"title": "ARMARINHO E PAPELARIA BARREIRO",
 		"address": "R. Desembargador Ribeiro da Luz, n: 258 - Barreiro de Baixo",
 		"location": [
 			-19.9737526,
@@ -1827,6 +1948,7 @@
 		"id": "121",
 		"category": "2583677",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ea537b71549211020d7a3daae8ae0ea6941cefb7",
+		"title": "Casa das Linhas Barreiro",
 		"address": "R. Barão de Coromandel, n: 26 - Barreiro de Baixo",
 		"location": [
 			-19.9743286,
@@ -1838,6 +1960,7 @@
 		"id": "122",
 		"category": "2583763",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d4362f571ac8a70a38db09a7c0409e9f30a466cb",
+		"title": "BRINQ TOYS",
 		"address": "Av. Sinfrônio Brochado, n: 710 - Barreiro de Baixo",
 		"location": [
 			-19.9766677,
@@ -1849,6 +1972,7 @@
 		"id": "123",
 		"category": "2583773",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/e8a8be185d3b7b7d4bb2790f653c3e335b52f19b",
+		"title": "PÉ DE CHINELO",
 		"address": "R: Flávio Marques Lisboa, n: 354 - Barreiro de Baixo",
 		"location": [
 			-19.9752728,
@@ -1866,6 +1990,7 @@
 		"id": "124",
 		"category": "2583773",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6e8ee8bb6867db1f7b9dcad6c0f568d6c9d28f15",
+		"title": "KATUXA CALÇADOS",
 		"address": "Av. Visconde de Ibituruna, n: 288 - Barreiro de Baixo",
 		"location": [
 			-19.9750162,
@@ -1877,6 +2002,7 @@
 		"id": "125",
 		"category": "2583777",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b6f74c32227c1287a4a4e74e8d38a56e4c2f2b94",
+		"title": "REAL ENXOVAIS",
 		"address": "R: Barão de Coromandel, n: 221 - Barreiro de Baixo",
 		"location": [
 			-19.9747964,
@@ -1889,6 +2015,7 @@
 		"id": "126",
 		"category": "2583803",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b1fceab0706c2f8e8f4651b600329e0ce778b66a",
+		"title": "FERRAGENS SCHIAVO E LIMA",
 		"address": "Av. Sinfrônio Brochado, n: 840 Loja 2 - Barreiro de Baixo",
 		"location": [
 			-19.9769602,
@@ -1900,6 +2027,7 @@
 		"id": "127",
 		"category": "2583803",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/40f81060716599ae690c987fa9e5391459491566",
+		"title": "FIXOBRAS PARAFUSOS E FERRAGENS",
 		"address": "R. José Brandão, n: 304 Loja B - Barreiro de Baixo",
 		"location": [
 			-19.9761819,
@@ -1911,6 +2039,7 @@
 		"id": "128",
 		"category": "2583813",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d3a9720e989d070308f5c090ffcd2f790d052d91",
+		"title": "ELDORADO INSTRUMENTOS MUSICAIS",
 		"address": "Av. Sinfrônio Brochado, n: 1280 - Barreiro",
 		"location": [
 			-19.9779334,
@@ -1935,6 +2064,7 @@
 		"id": "129",
 		"category": "2583825",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/33084ca1bf2cdfd37d83b760ab9ce5515030f9e2",
+		"title": "SANDRA MODAS",
 		"address": "Av. Manoel Salles Barbosa, n: 174 loja A - Cardoso",
 		"location": [
 			-19.998297,
@@ -1954,6 +2084,7 @@
 		"id": "130",
 		"category": "2583825",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9a5e36b913d583d7b9227dd6c4c28e9c1f943056",
+		"title": "CRIS SANTOS",
 		"address": "R: Flávio Marques Lisboa, n: 314 - Barreiro de Baixo",
 		"location": [
 			-19.9749551,
@@ -1972,6 +2103,7 @@
 		"id": "131",
 		"category": "2583825",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/bb45a41b7adb9cccdcbef3ac94a4ac44c068a414",
+		"title": "SPECIALLE CASUAL STYLE",
 		"address": "Av. Sinfrônio Brochado, n: 1330 B - Barreiro de Baixo",
 		"location": [
 			-19.978048,
@@ -1983,6 +2115,7 @@
 		"id": "132",
 		"category": "2583831",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5872e567da573d18d7331ac6c616d26e5c792052",
+		"title": "MAWAI SKATE SURF CASUAL",
 		"address": "Av. Sinfrônio Brochado, n: 1122 - Barreiro de Baixo",
 		"location": [
 			-19.9776358,
@@ -1998,6 +2131,7 @@
 		"id": "133",
 		"category": "2583831",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a7b0d01b87b9641208916cfeaf718ef1a0728a4c",
+		"title": "CIA DO TERNO",
 		"address": "Av. Afonso Vaz Melo, n: 640 - Barreiro de Baixo",
 		"location": [
 			-19.9726648,
@@ -2009,6 +2143,7 @@
 		"id": "134",
 		"category": "2583835",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fb6714fe837f50a3895b7f90143c412bca9195e7",
+		"title": "BABY ENXOVAIS",
 		"address": "Av. Sinfrônio Brochado, n: 205 - Barreiro de Baixo",
 		"location": [
 			-19.9758067,
@@ -2028,6 +2163,7 @@
 		"id": "135",
 		"category": "2583835",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7eaca048ffb4eb083f3d5b0a871b4e3112a76a6b",
+		"title": "KIDS TEENS",
 		"address": "R: Alcindo Vieira, n: 422 - Barreiro de Baixo",
 		"location": [
 			-19.918691,
@@ -2046,6 +2182,7 @@
 		"id": "136",
 		"category": "2583839",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/31b260db5a3cc35a467993bbd952be60f3e63517",
+		"title": "CENTRAL ROUPAS",
 		"address": "R: Barão de Coromandel, n:257 - Barreiro de Baixo",
 		"location": [
 			-19.9747418,
@@ -2058,6 +2195,7 @@
 		"id": "137",
 		"category": "2583839",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/445fbee16112b171ee1fb332698e372e4b55c9ac",
+		"title": "TERRITÓRIO",
 		"address": "Av. Afonso Vaz de Melo, n: 640 - Barreiro de Baixo",
 		"location": [
 			-19.9746255,
@@ -2069,6 +2207,7 @@
 		"id": "138",
 		"category": "2583857",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/afc1b86e8e0361aac5211eceffc661f5689ed3b3",
+		"title": "PRESENTEAR",
 		"address": "Av. Visconde Ibituruna, n: 26 - Barreiro de Baixo",
 		"location": [
 			-19.9726648,
@@ -2080,6 +2219,7 @@
 		"id": "139",
 		"category": "2583857",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/79c62d9882e422b32fedb427cfe3ea4520a79f12",
+		"title": "ROFALIS PRESENTES",
 		"address": "R. Pinheiro Chagas, n: 111 - Barreiro de Baixo",
 		"location": [
 			-19.9779953,
@@ -2091,6 +2231,7 @@
 		"id": "140",
 		"category": "2583861",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/4f33cf8afe5157860ae3210a6a859367d4a04789",
+		"title": "CENTERPAN",
 		"address": "Av. Waldyr Soeiro Enrich, n: 3151 - Diamante",
 		"location": [
 			-19.9890089,
@@ -2103,6 +2244,7 @@
 		"id": "141",
 		"category": "2583861",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/4108e6da2a356ae8fab9259fc221a4d79c0035c0",
+		"title": "DANY PRESENTES E DANY UD",
 		"address": "R: Barão de Coromandel, n: 150 - Barreiro de Baixo",
 		"location": [
 			-19.9745233,
@@ -2121,6 +2263,7 @@
 		"id": "142",
 		"category": "2583861",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/210fe1bda2f1d85194ac7fefcb92b6206b52d099",
+		"title": "PONTO DOS FOGÕES",
 		"address": "R: Flávio Marques Lisboa, n: 354 - Barreiro de Baixo",
 		"location": [
 			-19.9752728,
@@ -2138,6 +2281,7 @@
 		"id": "143",
 		"category": "2586009",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0af91f3b20ce8a9c2035c2f2baedf9688327968b",
+		"title": "MAX COLCHÕES",
 		"address": "Av. Sinfrônio Brochado, n: 1577 - Barreiro de Baixo",
 		"location": [
 			-19.9784199,
@@ -2149,6 +2293,7 @@
 		"id": "144",
 		"category": "2586009",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/088ed612e8164b542bd29b96377cedb4add026d2",
+		"title": "ORTOBOM",
 		"address": "Av. Visconde De Ibituruna, n: 298 - Barreiro de Baixo",
 		"location": [
 			-19.9751138,
@@ -2160,6 +2305,7 @@
 		"id": "145",
 		"category": "2586023",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0391fd554f042d42656b8cafcc98419bc93caedb",
+		"title": "LOJAS REBUEN",
 		"address": "Av Visc Ibituruna, 261 - Barreiro de Baixo",
 		"location": [
 			-19.9747881,
@@ -2171,6 +2317,7 @@
 		"id": "146",
 		"category": "2586023",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/aaf735cdbd7bf97bd4adb0113f2f4bc73d1595b2",
+		"title": "VIA BARREIRO TEXTIL",
 		"address": "Av. Afonso Vaz de Melo, n: 307 - Barreiro de Baixo",
 		"location": [
 			-19.9732448,
@@ -2182,6 +2329,7 @@
 		"id": "147",
 		"category": "2587883",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/4ed890c68cbfa3de4ade62277607b16d97da1d70",
+		"title": "CRECHE DA TIA CANDINHA",
 		"address": "R. João Batista de Assis, n: 209 - Tirol",
 		"location": [
 			-19.9900932,
@@ -2193,6 +2341,7 @@
 		"id": "148",
 		"category": "2587883",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/347d7c4be38ea9c553585f1de7c037183f8449ad",
+		"title": "LAR CRISTO DA CRIANÇA",
 		"address": "R. dos Cruzeirenses, n: 20 - Milionários",
 		"location": [
 			-19.9814633,
@@ -2204,6 +2353,7 @@
 		"id": "149",
 		"category": "2587889",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6827583393fb8f70ab61d9d0b9b07782e1edb9e8",
+		"title": "BORRACHARIA 2 IRMÃOS",
 		"address": "Av. Afonso Vaz de Melo, n: 1265 loja 2 - Barreiro de Baixo",
 		"location": [
 			-19.9754088,
@@ -2215,6 +2365,7 @@
 		"id": "150",
 		"category": "2587889",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b187540f7b9682471b674603518248a4b56b9b55",
+		"title": "BORRACHARIA DO BETO",
 		"address": "R. Júlio de Mesquita, n: 191 - Tirol",
 		"location": [
 			-19.9956056,
@@ -2226,6 +2377,7 @@
 		"id": "151",
 		"category": "2595267",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/297f7d19ea96604ac6678d4332e53da5c9b422bb",
+		"title": "PANTANAL PESCA, CAÇA E CAMPING",
 		"address": "R: Barão de Coromandel, n: 126 - Barreiro de Baixo",
 		"location": [
 			-19.981937,
@@ -2240,6 +2392,7 @@
 		"id": "152",
 		"category": "2596485",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7596d6aec01186ac2cf349f29b5eef5244340d82",
+		"title": "UNIFORMES LIDER LTDA",
 		"address": "R. Barão de Coromandel, n: 180 loja 01 - Barreiro de Baixo",
 		"location": [
 			-19.9746197,
@@ -2251,6 +2404,7 @@
 		"id": "153",
 		"category": "2596485",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/7f6499cc17ed9f283da86591d7db4c9e719f3493",
+		"title": "REIVINDIQUE CONFECÇÕES",
 		"address": "R. Antônio Eustáquio Piazza, n: 2950 - Tirol",
 		"location": [
 			-19.9858774,
@@ -2262,6 +2416,7 @@
 		"id": "154",
 		"category": "2596495",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d91fdb3460a43ed19c51669b5339e89f33a3c5d8",
+		"title": "BICICLETAS KIOWA",
 		"address": "Av. Arquiteto Morandi, n: 15 - Barreiro de Baixo",
 		"location": [
 			-19.9706026,
@@ -2273,6 +2428,7 @@
 		"id": "155",
 		"category": "2596495",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/93e9852cfc5cc30b061f43b6a205b63d30ad5756",
+		"title": "SPACE BIKE BH",
 		"address": "Av. Sinfrônio Brochado, n: 452 - Barreiro de Baixo",
 		"location": [
 			-19.9762813,
@@ -2284,6 +2440,7 @@
 		"id": "156",
 		"category": "2600253",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8a4cd0ba80f468fc0303175a17621ae3b1a17ee1",
+		"title": "GAMA CELULARES",
 		"address": "Av. Sinfrônio Brochado, n: 533 loja 1 - Barreiro de Baixo",
 		"location": [
 			-19.9964331,
@@ -2295,6 +2452,7 @@
 		"id": "157",
 		"category": "2600253",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ed184081fdbe05eb2d17843a0b4778c65ec484ac",
+		"title": "STAR GAMES",
 		"address": "Av. Visconde de Ibituruna, n: 58 Loja 2 - Barreiro de Baixo",
 		"location": [
 			-19.9728964,
@@ -2306,6 +2464,7 @@
 		"id": "158",
 		"category": "2600279",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/0747ab74bb9165a0ec8002934d7bb049f2fb01a5",
+		"title": "KEYLANASCIMENTO MODA NOIVAS E FESTAS",
 		"address": "Av. Sinfrônio Brochado, n: 1013 - Barreiro de Baixo",
 		"location": [
 			-19.977471,
@@ -2325,6 +2484,7 @@
 		"id": "159",
 		"category": "2600279",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ebfce92c9481124f54d40e789b230485a8f4ef69",
+		"title": "MIRAGEM NOIVAS E NOIVOS",
 		"address": "Av. Sinfrônio Brochado, n: 800 - Barreiro de Baixo",
 		"location": [
 			-19.976817,
@@ -2349,6 +2509,7 @@
 		"id": "160",
 		"category": "2600315",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/c2fec473e9199d35d202369cd08185db13e961b6",
+		"title": "CÂMERA DE SEGURANÇA MINAS SEGUE",
 		"address": "R: Castor, n: 129 - Barreiro de Cima",
 		"location": [
 			-19.9827287,
@@ -2366,6 +2527,7 @@
 		"id": "161",
 		"category": "2600331",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/595bedd762253e249d1d360719011667297a5476",
+		"title": "TRADISOM SOM E ACESSÓRIOS",
 		"address": "R: Betula, n: 135 - Bonsucesso",
 		"location": [
 			-19.9877072,
@@ -2378,6 +2540,7 @@
 		"id": "162",
 		"category": "2600331",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9be516f09caa99ccc656cc85a9a19f0ec46be691",
+		"title": "IMPACT SOM E ACESSÓRIOS",
 		"address": "Av. Sinfrônio Brochado, n: 1390 - Barreiro de Baixo",
 		"location": [
 			-19.988816,
@@ -2390,6 +2553,7 @@
 		"id": "163",
 		"category": "2600331",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a9a70c26030dbaeaf3b70f3fcfa6aa2421c9debe",
+		"title": "EKIPAR SOM E ACESSÓRIOS",
 		"address": "Av. Sinfrônio Brochado, n: 1290 - Barreiro de Baixo",
 		"location": [
 			-19.9779761,
@@ -2401,6 +2565,7 @@
 		"id": "164",
 		"category": "2600399",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/a6b71318542a8f3539e84218123d0e8424e15255",
+		"title": "ACCOUTER",
 		"address": "R. Honório Hermeto, n: 60 sala 05 - Barreiro de Baixo",
 		"location": [
 			-19.9739874,
@@ -2412,6 +2577,7 @@
 		"id": "165",
 		"category": "2600509",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/55146ca457f2e313db20b49cc989485f88f9770a",
+		"title": "LIVRARIA CRISTO REINA",
 		"address": "R. Flávio Marques Lisboa, n: 364 - Barreiro de Baixo",
 		"location": [
 			-19.9754103,
@@ -2423,6 +2589,7 @@
 		"id": "166",
 		"category": "2600509",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/b112f25a7eac62a94df71193b554fe722b0980e1",
+		"title": "LIVRARIA LEITURA",
 		"address": "Av. Afonso Vaz Melo, 640 - Barreiro de Baixo",
 		"location": [
 			-19.9746255,
@@ -2434,6 +2601,7 @@
 		"id": "167",
 		"category": "2600581",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/087e81a746d43bc8c0068cfb5c82613fdfc7ca3e",
+		"title": "FLORICULTURA BOMTEMPO",
 		"address": "Rua José Brandão, n: 146 - Barreiro de Baixo",
 		"location": [
 			-19.9746666,
@@ -2445,6 +2613,7 @@
 		"id": "168",
 		"category": "2600581",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/9a01e66c140709147edae922eb5e103e48f3296b",
+		"title": "FLORICULTURA REALCE",
 		"address": "Rua José Brandão, n: 211, - Barreiro de Baixo",
 		"location": [
 			-19.9755985,
@@ -2456,6 +2625,7 @@
 		"id": "169",
 		"category": "2614611",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/4ae19eb62f85b144b06db7a1353180f18188354a",
+		"title": "CORPO A CORPO LINGERIE",
 		"address": "R: Barão de Coromandel, n: 246 Loja A - Barreiro de Baixo",
 		"location": [
 			-19.9746885,
@@ -2473,6 +2643,7 @@
 		"id": "170",
 		"category": "2614611",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/2d5b1c45922d4abe5cca3aab0010b6c3c90a60ac",
+		"title": "ÓTIMAS INTENÇÕES SEX SHOP",
 		"address": "Av. Visconde de Ibituruna, n: 335 Sala 07 - Barreiro de Baixo",
 		"location": [
 			-19.9755424,
@@ -2484,6 +2655,7 @@
 		"id": "171",
 		"category": "2614701",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ea9fa2b5a699320139fe63fbada9a3bebd77c775",
+		"title": "FERROBEL",
 		"address": "Av: Waldir Soeiro Emrich, n: 2921 - Barreiro de Cima",
 		"location": [
 			-19.9881961,
@@ -2495,6 +2667,7 @@
 		"id": "172",
 		"category": "2614701",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/ba09d264893ced00755d65bedcff85eb77362727",
+		"title": "MILLENIUM SERRALHERIA",
 		"address": "R: Hoffman, n: 630 - Barreiro de Cima",
 		"location": [
 			-19.992463,
@@ -2506,6 +2679,7 @@
 		"id": "173",
 		"category": "2614735",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3b844149cfd0ec67ec80c6d8a3f59a2338d0ab8c",
+		"title": "BARBEARIA ALVACIR",
 		"address": "R. Joaquim de Figueiredo, n: 285 - Barreiro de Baixo",
 		"location": [
 			-19.9754088,
@@ -2517,6 +2691,7 @@
 		"id": "174",
 		"category": "2614779",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fea34fb878053c3adebd70d59d42e6936e5277de",
+		"title": "ARAÚJOS PISCINAS",
 		"address": "Av. Antônio Eustáquio Piazza, n: 3000 - Tirol",
 		"location": [
 			-19.9862718,
@@ -2529,6 +2704,7 @@
 		"id": "175",
 		"category": "2614779",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/e8d81fbf0f0f394b3a85c9fafab95c310fbb042b",
+		"title": "NOVATEC PISCINAS",
 		"address": "R. Carlos Pinto Coelho, n: 130 - Vale Jatobá",
 		"location": [
 			-20.0060563,
@@ -2540,6 +2716,7 @@
 		"id": "176",
 		"category": "2617205",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3f3fd9b244576504c5599893e7f50de5c54db68c",
+		"title": "IMPÉRIO DOS DRAGÕES",
 		"address": "Av. Olinto Meireles, n: 2733 - Barreiro de Cima",
 		"location": [
 			-19.9946586,
@@ -2564,6 +2741,7 @@
 		"id": "177",
 		"category": "2617205",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/6f31dc350a0a33771327b341dd6fe935fa29c45d",
+		"title": "SPEED OF TATOO",
 		"address": "Av. Visconde de Ibituruna, n: 165 sala 208 - Barreiro de Baixo",
 		"location": [
 			-19.9739134,
@@ -2588,6 +2766,7 @@
 		"id": "178",
 		"category": "2617385",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/22afe397b1e23445563f4e595c1ca2fbb0f93ed1",
+		"title": "L'ACQUA DI FIORI",
 		"address": "Av. Afonso Vaz de Melo, n: 640 - Barreiro de Baixo",
 		"location": [
 			-19.9746255,
@@ -2599,6 +2778,7 @@
 		"id": "179",
 		"category": "2617385",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/2124ab4787b24c1a25f5f14804af089e963a54bb",
+		"title": "O BOTICÁRIO",
 		"address": "Av. Visconde de Ibituruna, n: 289 - Barreiro de Baixo",
 		"location": [
 			-19.9752077,
@@ -2610,6 +2790,7 @@
 		"id": "180",
 		"category": "2617439",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5741ef71dc0641d9affc56d55057eaa2b4c00a82",
+		"title": "JL MÓVEIS PLANEJADOS",
 		"address": "R. Antônio Eustáquio Piazza, n: 2950 - Tirol",
 		"location": [
 			-19.9858774,
@@ -2628,6 +2809,7 @@
 		"id": "181",
 		"category": "2617439",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/d2134bbe5e41dd1634bbdcfc04a295969f32fc1c",
+		"title": "DUMÓVEIS",
 		"address": "R: Desembargador Ribeiro da Luz, n: 198 - Barreiro de Baixo",
 		"location": [
 			-19.973614,
@@ -2646,6 +2828,7 @@
 		"id": "182",
 		"category": "2617439",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/1a29857959d65ba7831734359154cf3703c9f1a1",
+		"title": "DUMÓVEIS KIDS",
 		"address": "R: Flávio Marques Lisboa, n: 125 - Barreiro de Baixo",
 		"location": [
 			-19.9732589,
@@ -2665,6 +2848,7 @@
 		"id": "183",
 		"category": "2617439",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/bf27cfdd14bf0134485c112b70cd12fc29181141",
+		"title": "LEMART CASA",
 		"address": "R: Barão de Coromandel, n: 246 Loja A - Barreiro de Baixo",
 		"location": [
 			-19.9746885,
@@ -2682,6 +2866,7 @@
 		"id": "184",
 		"category": "2617933",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/fb03eb19cb7485497944c4fabca8c21832379b64",
+		"title": "PADARIA PREMIERE",
 		"address": "Rua Barão de Coromandel, n: 245 - Barreiro de Baixo",
 		"location": [
 			-19.9747513,
@@ -2693,6 +2878,7 @@
 		"id": "185",
 		"category": "2617933",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/121c7c211ea9b61133ddbf89f8f1694eb255ed5f",
+		"title": "PANIFICADORA E CONFEITARIA FORNO E PÃO",
 		"address": "R. Barão de Coromandel, n: 455 - Barreiro de Baixo",
 		"location": [
 			-19.9751483,
@@ -2704,6 +2890,7 @@
 		"id": "186",
 		"category": "2618279",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/3114a78c9a9d433c818f6ca188fb172cfd99a63f",
+		"title": "CLOSET ZOE",
 		"address": "Av. Sinfrônio Brochado, n: 376 - Barreiro de Baixo",
 		"location": [
 			-19.9760839,
@@ -2715,6 +2902,7 @@
 		"id": "187",
 		"category": "2618279",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/1b457529bd1aabdbf1e196f40c09bdf5a6b285e3",
+		"title": "LOLA PLUS SIZE",
 		"address": "Av. Visconde de Ibituruna, n: 252 - Barreiro de Baixo",
 		"location": [
 			-19.9747311,
@@ -2726,6 +2914,7 @@
 		"id": "188",
 		"category": "2629461",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/52754aacfe6db7ad0a468567f7028069d9980fa2",
+		"title": "ACORTINAR",
 		"address": "Av. Afonso Vaz de Melo, n: 1306 - Barreiro de Baixo",
 		"location": [
 			-19.9782107,
@@ -2737,6 +2926,7 @@
 		"id": "189",
 		"category": "2629461",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8419a13b83bbc2a50b5bd78bcb6f454ff4fee6da",
+		"title": "SARON CORTINAS BH",
 		"address": "Av. Sinfrônio Brochado, n: 350 - Barreiro de Baixo",
 		"location": [
 			-19.9760237,
@@ -2748,6 +2938,7 @@
 		"id": "190",
 		"category": "2634123",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/5edc4b96ae2df33bbf4817a16f3e313f6bc8e3d8",
+		"title": "CHOCO FESTAS",
 		"address": "Av. Visconde de Ibituruna, n: 127 - Barreiro de Baixo",
 		"location": [
 			-19.9735757,
@@ -2759,6 +2950,7 @@
 		"id": "191",
 		"category": "2634123",
 		"image": "http://universo-prd1-m.s3-website-us-east-1.amazonaws.com/8bfbb6a81a3f8b4b87b2850e6a77e09cb75a1221",
+		"title": "CHOKONOBRE",
 		"address": "Av. Visconde de Ibituruna, n: 127 - Barreiro de Baixo",
 		"location": [
 			-19.9770978,
